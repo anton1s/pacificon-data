@@ -3,7 +3,7 @@
 Live conference data for the Pacificon companion app. The app fetches
 `sessions.json` and `speakers.json` from this repo's raw URLs on launch and
 when it returns to the foreground, so edits here reach attendees' phones
-within a couple of minutes — no app-store release needed.
+within about 5 minutes (GitHub's CDN cache) — no app-store release needed.
 
 ## Editing rules
 
