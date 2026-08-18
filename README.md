@@ -1,7 +1,8 @@
 # Pacificon App Data
 
 Live conference data for the Pacificon companion app. The app fetches
-`sessions.json` and `speakers.json` from this repo's raw URLs on launch and
+`sessions.json`, `speakers.json`, `vendors.json` and `organizers.json` from
+this repo's raw URLs on launch and
 when it returns to the foreground, so edits here reach attendees' phones
 within about 5 minutes (GitHub's CDN cache) — no app-store release needed.
 
@@ -13,4 +14,9 @@ within about 5 minutes (GitHub's CDN cache) — no app-store release needed.
   are stored by session id on their phones.
 - Speaker `photoUri` may be a full URL; photos in `photos/` are served at
   `https://raw.githubusercontent.com/anton1s/pacificon-data/main/photos/<file>`.
-- Don't add email addresses or other private contact info — this repo is public.
+- Speaker photos: drop `photos/<speaker id>.jpg` (or `.png`) here and the app
+  picks it up automatically for speakers without a bundled photo.
+- `organizers.json`: one entry per role (`id`, `name`, `role`, optional
+  `callsign`, `email` or `website`, `hidden`). Only use public role
+  addresses (chair@pacificon.org etc.) here — this repo is public.
+- Don't add other email addresses or private contact info — this repo is public.

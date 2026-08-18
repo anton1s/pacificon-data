@@ -1,0 +1,241 @@
+{
+  "organizers": [
+    {
+      "id": "pacificon-chair-aa6pp",
+      "name": "Antonis Papatsaras",
+      "role": "Pacificon Chair",
+      "callsign": "AA6PP",
+      "email": "chair@pacificon.org"
+    },
+    {
+      "id": "secretary-n8mah",
+      "name": "Jeff Mah",
+      "role": "Secretary",
+      "callsign": "N8MAH",
+      "email": "secratary@pacificon.org"
+    },
+    {
+      "id": "treasurer-k6why",
+      "name": "Barb Whysong",
+      "role": "Treasurer",
+      "callsign": "K6WHY",
+      "email": "treasurer@mdarc.org"
+    },
+    {
+      "id": "antenna-seminar-wa6jau",
+      "name": "Trevor Hall",
+      "role": "Antenna Seminar",
+      "callsign": "WA6JAU",
+      "email": "antenna-seminar@pacificon.org"
+    },
+    {
+      "id": "banquet-k6za",
+      "name": "Barry Isseks",
+      "role": "Banquet",
+      "callsign": "K6ZA"
+    },
+    {
+      "id": "brochure-logo-design-ke6ziw",
+      "name": "Pete Harris",
+      "role": "Brochure & Logo Design",
+      "callsign": "KE6ZIW"
+    },
+    {
+      "id": "committee-shirts-kj6bue",
+      "name": "Misa Siemons",
+      "role": "Committee Shirts",
+      "callsign": "KJ6BUE"
+    },
+    {
+      "id": "forums-kr6a",
+      "name": "Marc Kohli",
+      "role": "Forums",
+      "callsign": "KR6A",
+      "email": "pacificonforums@mdarc.org"
+    },
+    {
+      "id": "hospitality-k6vt",
+      "name": "Cal Vasquez",
+      "role": "Hospitality",
+      "callsign": "K6VT"
+    },
+    {
+      "id": "hotel-k6why",
+      "name": "Barb Whysong",
+      "role": "Hotel",
+      "callsign": "K6WHY",
+      "email": "hotel@pacificon.org"
+    },
+    {
+      "id": "hotel-k6cbk",
+      "name": "Grant Bowman",
+      "role": "Hotel",
+      "callsign": "K6CBK",
+      "email": "hotel@pacificon.org"
+    },
+    {
+      "id": "license-testing-ki6lnb",
+      "name": "Larry Loomer",
+      "role": "License Testing",
+      "callsign": "KI6LNB",
+      "email": "laryloomer@yahoo.com"
+    },
+    {
+      "id": "kit-building-youth-education-wb6ygj",
+      "name": "Will Dickson",
+      "role": "Kit Building & Youth Education",
+      "callsign": "WB6YGJ",
+      "email": "kit-building@pacificon.org"
+    },
+    {
+      "id": "marketing-kd7g",
+      "name": "Jim Marchetti",
+      "role": "Marketing",
+      "callsign": "KD7G",
+      "email": "marketing@pacificon.org"
+    },
+    {
+      "id": "musicians-ke6ziw",
+      "name": "Pete Harris",
+      "role": "Musicians",
+      "callsign": "KE6ZIW"
+    },
+    {
+      "id": "one-day-class-ke6ziw",
+      "name": "Pete Harris",
+      "role": "One Day Class",
+      "callsign": "KE6ZIW",
+      "email": "licenseclass@pacificon.org"
+    },
+    {
+      "id": "photographers-ke6ziw",
+      "name": "Pete Harris",
+      "role": "Photographers",
+      "callsign": "KE6ZIW",
+      "email": "photos@pacificon.org"
+    },
+    {
+      "id": "photographers-k6za",
+      "name": "Barry Isseks",
+      "role": "Photographers",
+      "callsign": "K6ZA",
+      "email": "photos@pacificon.org"
+    },
+    {
+      "id": "prizes-wa6cie",
+      "name": "Lauren Styles",
+      "role": "Prizes",
+      "callsign": "WA6CIE",
+      "email": "prizes@pacificon.org"
+    },
+    {
+      "id": "program-handout-design-n6bhx",
+      "name": "Jim Brunk",
+      "role": "Program (Handout) Design",
+      "callsign": "N6BHX",
+      "email": "editor@pacificon.org"
+    },
+    {
+      "id": "registration-kd7g",
+      "name": "Jim Marchetti",
+      "role": "Registration",
+      "callsign": "KD7G",
+      "email": "registration@pacificon.org"
+    },
+    {
+      "id": "scouting-liaison-wb6wtm",
+      "name": "Dave Shaw",
+      "role": "Scouting Liaison",
+      "callsign": "WB6WTM",
+      "email": "scouting@pacificon.org"
+    },
+    {
+      "id": "scouting-liaison-ks4fun",
+      "name": "Kevin Slovick",
+      "role": "Scouting Liaison",
+      "callsign": "KS4FUN",
+      "email": "scouting@pacificon.org"
+    },
+    {
+      "id": "security-kj8mah",
+      "name": "Jason Mah",
+      "role": "Security",
+      "callsign": "KJ8MAH",
+      "email": "security@pacificon.org"
+    },
+    {
+      "id": "special-event-station-ab6rf",
+      "name": "Mikko Saannala",
+      "role": "Special Event Station",
+      "callsign": "AB6RF"
+    },
+    {
+      "id": "swap-meet-livermore-amateur-radio-klub",
+      "name": "Livermore Amateur Radio Klub",
+      "role": "Swap Meet",
+      "website": "https://www.livermoreark.org"
+    },
+    {
+      "id": "talk-in-freq-coord-w6cx-w6sxa",
+      "name": "Mark Cloud",
+      "role": "Talk-in / Freq Coord W6CX",
+      "callsign": "W6SXA",
+      "email": "talk-in@pacificon.org"
+    },
+    {
+      "id": "talk-in-freq-coord-w6cx-n6rio",
+      "name": "John Rio",
+      "role": "Talk-in / Freq Coord W6CX",
+      "callsign": "N6RIO",
+      "email": "talk-in@pacificon.org"
+    },
+    {
+      "id": "technical-ke6vta",
+      "name": "Greg Estep",
+      "role": "Technical",
+      "callsign": "KE6VTA"
+    },
+    {
+      "id": "t-hunting-ka6zed",
+      "name": "Brian Zoraster",
+      "role": "T-Hunting",
+      "callsign": "KA6ZED",
+      "email": "t-hunting@pacificon.org"
+    },
+    {
+      "id": "vendors-n6acl",
+      "name": "Annie Lewis",
+      "role": "Vendors",
+      "callsign": "N6ACL",
+      "email": "vendors@pacificon.org"
+    },
+    {
+      "id": "volunteers-k6qbq",
+      "name": "Joyce Marciel",
+      "role": "Volunteers",
+      "callsign": "K6QBQ",
+      "email": "volunteer@pacificon.org"
+    },
+    {
+      "id": "website-k6cbk",
+      "name": "Grant Bowman",
+      "role": "Website",
+      "callsign": "K6CBK",
+      "email": "webmaster@pacificon.org"
+    },
+    {
+      "id": "website-n6jga",
+      "name": "Mike Patterson",
+      "role": "Website",
+      "callsign": "N6JGA",
+      "email": "webmaster@pacificon.org"
+    },
+    {
+      "id": "wouff-hong-wa6cie",
+      "name": "Lauren Styles",
+      "role": "Wouff Hong",
+      "callsign": "WA6CIE",
+      "email": "prizes@pacificon.org"
+    }
+  ]
+}
