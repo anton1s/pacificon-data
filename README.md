@@ -1,7 +1,7 @@
 # Pacificon App Data
 
 Live conference data for the Pacificon companion app. The app fetches
-`sessions.json`, `speakers.json`, `vendors.json` and `organizers.json` from
+`sessions.json`, `speakers.json`, `vendors.json`, `organizers.json` and `sponsors.json` from
 this repo's raw URLs on launch and
 when it returns to the foreground, so edits here reach attendees' phones
 within about 5 minutes (GitHub's CDN cache) — no app-store release needed.
