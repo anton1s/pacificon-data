@@ -1,0 +1,272 @@
+[
+  {
+    "id": "sara-paul",
+    "name": "Sara Paul",
+    "callsign": "",
+    "bio": "Sara Paul is one of the founding team members of Watch Duty, the wildfire and flood alerting app.  She started reporting on wildfires in 2017 in Sonoma County, joined Watch Duty in summer of 2021, and for five years has had a role in operations, reporting recruiting, and training. \n\nShe is a certified wildfire mitigation manager, GMRS radio user, and holds various FEMA certifications. She served on boards of the her local Fire Protection District and Safer West County in Sonoma. She is the Community Manager for Watch Duty, working hand in hand with our 400+ volunteers and small group of staff."
+  },
+  {
+    "id": "aa6mp",
+    "name": "Michelle Paquette",
+    "callsign": "AA6MP",
+    "bio": "Michelle Paquette moved to the Portland, Oregon area in 2020, after living in the San Francisco Bay Area most of her life.  She has worked in fields from nuclear power plant operations to software engineering, as an engineer and trainer. A physics nerd, Michelle holds a number of patents and an Amateur Extra license, and enjoys restoring old vacuum tube radio gear and playing with wires."
+  },
+  {
+    "id": "af7yq",
+    "name": "Eric Anderson & Suzanne Muoio",
+    "callsign": "AF7YQ",
+    "bio": "https://www.linkedin.com/in/eduplexeric/"
+  },
+  {
+    "id": "ag6ns",
+    "name": "Kazuhisa “Kazu\"",
+    "callsign": "AG6NS",
+    "bio": ""
+  },
+  {
+    "id": "ah6cy",
+    "name": "Hiroki Kato",
+    "callsign": "AH6CY",
+    "bio": ""
+  },
+  {
+    "id": "ai6ym",
+    "name": "Justin Giorgi",
+    "callsign": "AI6YM",
+    "bio": "Justin is what happens when curiosity outpaces expertise. A specialist in trial and error, he documents ambitious projects with enthusiasm, hindsight, and more than a little sarcasm. He highlights not just what works, but what definitely didn’t—encouraging others to jump in and learn by doing."
+  },
+  {
+    "id": "k0neb",
+    "name": "Joe Eisenberg",
+    "callsign": "K0NEB",
+    "bio": ""
+  },
+  {
+    "id": "k6aq",
+    "name": "Mooneer Salem",
+    "callsign": "K6AQ",
+    "bio": ""
+  },
+  {
+    "id": "k6atv",
+    "name": "Walter Dunckel",
+    "callsign": "K6ATV",
+    "bio": "Walter Dunckel (K6ATV), based in Gilroy, California, is an amateur radio operator focused on LoRa APRS infrastructure and high-altitude balloon tracking. He authored Direwolf PR #638 adding LoRa SPI support for SX1262-based Raspberry Pi HATs, enabling Linux-based LoRa APRS digipeaters and iGates. Separately, he maintains the radiohound GitHub repository, developing open-source firmware for STM32WLE5 and RP2040-based trackers and digipeaters. Current work includes comparative analysis of SF7 versus SF12 LoRa APRS deployments using public network telemetry."
+  },
+  {
+    "id": "k6bp",
+    "name": "Bruce Perens",
+    "callsign": "K6BP",
+    "bio": "One of the founders of the Open Source movement in software, and founder of No-Code International, which succeeded in ending the Morse Code test for Amateur Radio licensing. Mr. Perens worked for 19 years in feature film, at Pixar, where he was credited on two of their films, and the NYIT Computer Graphical Laboratory."
+  },
+  {
+    "id": "k6jds",
+    "name": "John Sutter",
+    "callsign": "K6JDS",
+    "bio": ""
+  },
+  {
+    "id": "k6kjn",
+    "name": "Kay Savetz",
+    "callsign": "K6KJN",
+    "bio": "Kay Savetz is the project manager and curator of Digital Library of Amateur Radio & Communications, Internet Archive's free online ham radio library."
+  },
+  {
+    "id": "k6km",
+    "name": "Roberto Sadkowski",
+    "callsign": "K6KM",
+    "bio": "Roberto K6KM is a dedicated amateur radio operator licensed in 2018. He quickly developed a passion for outdoor operating, becoming active in Parks on the Air (POTA) and Summits on the Air (SOTA). In 2023, he achieved the prestigious Mountain Goat award through numerous summit activations. Roberto is also an enthusiastic contester, continually refining his skills in competitive operating. He currently serves as President of the Northern California Contest Club (NCCC), where he supports innovation and camaraderie among fellow operators across the region. He values friendship mentorship and technical excellence, always eager to share knowledge and inspire new hams worldwide."
+  },
+  {
+    "id": "k6oik",
+    "name": "Steve Stearns",
+    "callsign": "K6OIK",
+    "bio": "Steve Stearns, K6OIK, started in ham radio while in high school at the height of the Heathkit era.  He holds FCC Amateur Extra and a commercial General Radio Operator license with Radar endorsement.  He previously held Novice, Technician, and 1st Class Radiotelephone licenses.  He studied electrical engineering at California State University Fullerton, the University of Southern California, and Stanford, specializing in electromagnetics, communication engineering and signal processing.  Steve led the development of advanced antennas and algorithms for communication signal processing systems that perform reception, surveillance, reconnaissance, radio direction finding, geo-locating, and signal identification analysis.  He was a Technical Fellow at Northrop Grumman Corporation’s Electromagnetic Systems Laboratory in San Jose, California.  Steve is serving as vice-president of the Foothills Amateur Radio Society, and served previously as assistant director of ARRL Pacific Division.  He has over 100 professional publications and presentations and ten patents.  Steve has received numerous awards for professional and community volunteer activities."
+  },
+  {
+    "id": "k6ufo",
+    "name": "Mark Aaker",
+    "callsign": "K6UFO",
+    "bio": "K6UFO Mark Aaker has DXCC Top of the Honor Roll and has worked over 100 countries on eleven different bands. He enjoys contests, often at the challenging QRP 5 watt level. Since 2005 he has built and operated his own remote station in Washington state, and uses other stations across the country and around the world."
+  },
+  {
+    "id": "k6wx",
+    "name": "Kristen McIntyre",
+    "callsign": "K6WX",
+    "bio": "Kristen McIntyre, K6WX, has been interested in radio since she was about 5 years old.  She started in Amateur Radio in 1979 getting her ticket while at MIT.  Kristen has worked in many diverse areas from analog circuit design to image processing to starting and running an ISP. She is currently working at Apple in Core Networking, and spent many years at Sun Microsystems Laboratories where she was researching robustness and emergent properties of large distributed computer systems.  She is a long time denizen of Silicon Valley and has worked at or consulted for many of the usual suspects.  Kristen is an active ham and loves to chase DX on HF with her Elecraft K4 and modest station in an urban setting.  She is ARRL First Vice President, former Pacific Division Director, past president of the Palo Alto Amateur Radio Assoc., past Q&A columnist for Nuts and Volts magazine, and is active in many local clubs.  Kristen was recently inducted into the CQ Amateur Radio Hall of Fame.  She is also an Instrument Rated Private Pilot."
+  },
+  {
+    "id": "kd6w",
+    "name": "Joel Wilhite",
+    "callsign": "KD6W",
+    "bio": "First licensed in 1984 at DeVry Phoenix, Joel worked in broadcast television for 27 years and ushered in the ATSC broadcast systems into stations across the US and S. Korea. Now retired, Joel was been keenly focused on adding and improving new updates and the latest technology into the Amateur Television Network affiliates in CA, NV and now AZ."
+  },
+  {
+    "id": "ke0og",
+    "name": "David Casler",
+    "callsign": "KE0OG",
+    "bio": "Dave is a California native now living in Colorado. He's been a ham for over 50 years. He has degrees in mathematics and engineering and spent much of his working life doing systems engineering in aerospace. He writes the \"Ask Dave\" column for QST."
+  },
+  {
+    "id": "kh6fv",
+    "name": "Carter Davis",
+    "callsign": "KH6FV",
+    "bio": "Involved in Amateur Radio since the mid 1970s, among many activities supporting EMCOMM activities extensively.  Retired 31 years from the Fire Service which included deploying to Wildland Fires in COMU positions.  Currently Telecommunications Specialist with the Hawaii DMAT Team.  Also a DHS/CISA All Hazards National COMU Instructor especially enjoying presenting the AUXCOMM Course."
+  },
+  {
+    "id": "ki6msp",
+    "name": "Darryl Paule",
+    "callsign": "KI6MSP",
+    "bio": "I've been an amateur radio operator for 20 years. I have taught the Technician Licensing class, 20 years. I have facilitated two ARISS contacts. I teach the Scouting America Radio and Electronica Merit Badge courses. As well as STEM programs."
+  },
+  {
+    "id": "ki6zum",
+    "name": "jim mclaughlin",
+    "callsign": "KI6ZUM",
+    "bio": ""
+  },
+  {
+    "id": "kj4egu",
+    "name": "Carlo Francescangeli",
+    "callsign": "KJ4EGU",
+    "bio": "Carlo Francescangeli is an RF Senior Broadcast Engineer. Born in Liège, Belgium, he earned his Master of Science degree in Electrical Engineering in 1981. Over his distinguished career, he has worked in more than 120 countries, installing high-power broadcast transmitters, antennas, transmission lines, and passive combiners.Between 1996 and 2015, he also served as an RF Senior Consultant for Radio France Internationale. First licensed as an amateur radio operator in South America in 1982, he has held the call sign KJ4EGU since 2008.Today, Carlo splits his time between California and Baja, Mexico, where he continues to act as an RF consultant for the TV and radio broadcast industry. In his personal time, he enjoys RTTY, antenna experimentation, sailing, humanitarian activities, and family life."
+  },
+  {
+    "id": "kj6dzb",
+    "name": "Mathison Ott",
+    "callsign": "KJ6DZB",
+    "bio": "Mathison Ott, KJ6DZB, is a Berkeley-based amateur radio operator, \"Technical professional\", and community organizer. He works as a Senior Scene Technician in audio, video, and live production at UC Berkeley’s Cal Performances, supporting complex performances, broadcasts, and venue systems. In amateur radio, Mathison contributes to local club leadership, emergency communications, mesh networking, weak signal HF, satellite reception, and technical education. He is especially interested in AREDN, Meshtastic, SatNOGS, Raspberry Pi projects, and practical RF experimentation. Through hands-on engineering, public service, and collaboration, Mathison is a  ARRL Technical Specialist and works to make technology more useful, accessible, and connected for his community and fellow operators across his region."
+  },
+  {
+    "id": "kj6keu",
+    "name": "Dan Goldstein",
+    "callsign": "KJ6KEU",
+    "bio": "Dan has spent more than four decades connected to public safety and community service. He began as a Community Service Officer with the UC Berkeley Police Department in the 1980s and, since earning his amateur radio license in 2010, has served with the Alameda County Sheriff’s Communications Team, where he is now Administrative Sergeant. He also serves as California Region 2 Emergency Communications Mutual Aid Coordinator and ARRL East Bay Section Emergency Coordinator. Professionally, Dan has worked in IT for 35 years, including 25 in cybersecurity. A Hayward City Council member, he is also active in education, church, youth tutoring."
+  },
+  {
+    "id": "kj6oui",
+    "name": "Greg Waters",
+    "callsign": "KJ6OUI",
+    "bio": ""
+  },
+  {
+    "id": "kj6ptx",
+    "name": "Richard Lesnick",
+    "callsign": "KJ6PTX",
+    "bio": ""
+  },
+  {
+    "id": "kk7npq",
+    "name": "Suzanne Muoio",
+    "callsign": "KK7NPQ",
+    "bio": ""
+  },
+  {
+    "id": "km6am",
+    "name": "Tony Miller",
+    "callsign": "KM6AM",
+    "bio": ""
+  },
+  {
+    "id": "kn6plv",
+    "name": "Tim Wilkinson",
+    "callsign": "KN6PLV",
+    "bio": ""
+  },
+  {
+    "id": "ko6kzo",
+    "name": "Alice Miller",
+    "callsign": "KO6KZO",
+    "bio": "Alice is was the youngest licensee at Pacificon last year.  She is active with PAARA and SOTA in addition to loving Girl Scouts, Music, and Creative writing"
+  },
+  {
+    "id": "kt6r",
+    "name": "Kent Carter",
+    "callsign": "KT6R",
+    "bio": "Kent Carter, KT6R, is the founding member of the Boats on the Air program, a Director of the San Francisco Radio Club, and an active sailor on SF Bay and beyond. By combining his love of radio and boating, he is able to do two hobbies at once!"
+  },
+  {
+    "id": "kw5gp",
+    "name": "Glen Popiel",
+    "callsign": "KW5GP",
+    "bio": "Glen Popiel, KW5GP, is the author of ARRL’s Arduino for Ham Radio series of books, along with the new Digital Networking for Ham Radio book and various QST articles and product reviews. He continues to create fun and exciting new Arduino projects for amateur radio with his Maine Coon editors and paper shufflers, Shadow, Angel, and Sasquatch."
+  },
+  {
+    "id": "n0mii",
+    "name": "Jeff Logullo",
+    "callsign": "N0MII",
+    "bio": ""
+  },
+  {
+    "id": "n1dq",
+    "name": "Philip Gladstone",
+    "callsign": "N1DQ",
+    "bio": "N1DQ built and runs Pskreporter.info for the Ham community and weather.gladstonefamily.net for the Citizen Weather Observer Program. He got his N1DQ callsign about 18 years ago after the FCC dropped the Morse requirement."
+  },
+  {
+    "id": "n4ml",
+    "name": "Max Freedman",
+    "callsign": "N4ML",
+    "bio": ""
+  },
+  {
+    "id": "n6bt",
+    "name": "Tom Schiller",
+    "callsign": "N6BT",
+    "bio": ""
+  },
+  {
+    "id": "n6ol",
+    "name": "Nicklas Johnson",
+    "callsign": "N6OL",
+    "bio": "I've had a lifelong interest in radio, beginning with my first AM transmitter kit. I finally got my ticket in 2011 and developed an interest primarily in HF digital modes.  Things took an unexpected turn once I installed a loaded dipole capable of getting on 80m from my limited lot size, revealing considerable QRM originating from PG&E equipment.  From here I put my engineering background to good use, learning some new skills in DSP software development and simple direction-finding."
+  },
+  {
+    "id": "n7ur",
+    "name": "John Bigley",
+    "callsign": "N7UR",
+    "bio": "As an eight year old boy in 1961, Bigley found a discarded Montgomery Wards “Airline” console radio with a single shortwave band. Dragging it home he discovered the magical world of DX and became an SWL. His love for radio fueled his long time commitment of service to the amateur community, as an ARRL Assistant Director, past Section Manager, Assistant Section Manager, Public Information Coordinator, and many other positions. He has been honored numerous times for his service to fellow hams including the ARRL Elmer Award, the ARRL Pacific Division Ham of the Year, the Gordon West Ambassador of the Year, the Caribbean Outstanding Amateur Award, and honorary memberships bestowed by ham clubs throughout the country."
+  },
+  {
+    "id": "n9ys",
+    "name": "Yin Shih",
+    "callsign": "N9YS",
+    "bio": ""
+  },
+  {
+    "id": "na5n",
+    "name": "Paul Harden",
+    "callsign": "NA5N",
+    "bio": ""
+  },
+  {
+    "id": "nz6q",
+    "name": "John Litz",
+    "callsign": "NZ6Q",
+    "bio": ""
+  },
+  {
+    "id": "w6msd",
+    "name": "Bert Henderson",
+    "callsign": "W6MSD",
+    "bio": "Bert earned the novice license in 1969 at age 13, the general in 1970, and the extra in 1999. He mostly does CW on HF bands; he is a member of West Valley Amateur Radio Association (WVARA) in San Jose.  His amateur radio experience as a young person was key to a great career in engineering.  His professional bio is here: https://mtt.org/profile/bert-henderson/"
+  },
+  {
+    "id": "w6rq",
+    "name": "Curt Kolovson",
+    "callsign": "W6RQ",
+    "bio": "Curt Kolovson is a Volunteer Coordinator for San Francisco Bay Area Skywarn, which is a dedicated group of trained weather spotters. Our Skywarn group works closely with the National Weather Service Forecast Office in Monterey, CA. Curt is a retired software engineer, and has been a ham since 2002."
+  },
+  {
+    "id": "wb6lvc",
+    "name": "Debbie Johnson",
+    "callsign": "WB6LVC",
+    "bio": "Debbie has been an amateur radio operator since 1984.  Her current license level is Extra Class. She is a member of ARRL as well as District 6 Chairperson for YLRL (Young Ladies Radio League). Along with her husband Gary/AA6GJ, Debbie teaches licensing classes for Human Resources in the County of San Bernardino.  Their team has licensed over 500 county employees. Debbie is also a VE with ARRL.  She is a member of MTARA (Mountain Top Amateur Radio Club), assisting in club events and running their 220 Net where she shares historical and informational facts about our hobby. Debbie is a retired elementary school teacher who taught for 35 years. She enjoys using her skills to help others become part of our community."
+  },
+  {
+    "id": "wb6noa",
+    "name": "Gordon West",
+    "callsign": "WB6NOA",
+    "bio": ""
+  }
+]
