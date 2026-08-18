@@ -18,7 +18,7 @@
     "date": "2026-10-17",
     "startTime": "08:00",
     "endTime": "08:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "MMDVM hardware and software is at the core of most digital mode hotspots on the market. This talk is the annual update on the project. There is a lot new over the last year."
   },
   {
@@ -62,7 +62,7 @@
     "date": "2026-10-17",
     "startTime": "09:00",
     "endTime": "09:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "A two-part talk on amateur-radio position tracking. The first half covers Kazu's custom RP2040-based pico balloon trackers — tiny solar-powered payloads transmitting WSPR on 20m and APRS on 2m, with launches that have circumnavigated the globe many times over (one flight logged 16+ trips around). The second half turns to LoRa APRS trackers and digipeaters built around the STM32WLE5, including ultra-low-power Channel Activity Detection modes that stretch two AA cells into months of digipeater operation — making remote, solar-powered, and battery-only sites genuinely practical."
   },
   {
@@ -106,7 +106,7 @@
     "date": "2026-10-17",
     "startTime": "10:00",
     "endTime": "10:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "I've been an amateur radio operator for 20 years. I have taught the Technician Licensing class, 20 years. I have facilitated two ARISS contacts. I teach the Scouting America Radio and Electronica Merit Badge courses. As well as STEM programs."
   },
   {
@@ -150,7 +150,7 @@
     "date": "2026-10-17",
     "startTime": "11:00",
     "endTime": "11:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "An insider look into how Watch Duty operates."
   },
   {
@@ -194,7 +194,7 @@
     "date": "2026-10-17",
     "startTime": "13:00",
     "endTime": "13:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "Boats on the Air combines two passions, boating and ham radio, for twice the fun! This presentation will discuss the ins and outs of activating in a marine environment including antenna ideas, best practices, and special considerations while boating. Attendees will walk away with knowledge of how to successfully activate a ham radio station on any water-borne vessel."
   },
   {
@@ -238,7 +238,7 @@
     "date": "2026-10-17",
     "startTime": "14:00",
     "endTime": "14:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "Is Ohm’s Law really a law?  How about other laws, like Kirchhoff’s Laws for voltage and current, Lenz’s Law, and Snell’s Law?  In some cases these are reliable models that we can depend on, but in other cases they break down in some circumstances and can lead us astray.  Let’s take some time to learn about some of these so-called Laws and see how well they hold up under all sorts of circumstances.  And we will, of course, show how to break Ohm’s Law!"
   },
   {
@@ -282,7 +282,7 @@
     "date": "2026-10-17",
     "startTime": "15:00",
     "endTime": "15:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "Come and find out the latest from the AREDN amateur mesh networking world. We'll discuss the current state of AREDN, what's been happening, and what to expect in the future."
   },
   {
@@ -326,7 +326,7 @@
     "date": "2026-10-17",
     "startTime": "16:00",
     "endTime": "16:50",
-    "roomId": "contra-costa",
+    "roomId": "salon-2",
     "description": "Join ARRL author Glen Popiel, KW5GP,  as he discusses the Arduino and other microcontrollers. Learn just how much fun you can have creating your own microcontroller-based projects for your ham shack, family, and friends."
   },
   {
