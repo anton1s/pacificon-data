@@ -10,13 +10,8 @@
     "mapBounds": { "x": 0.641, "y": 0.0965, "width": 0.130, "height": 0.253 }
   },
   {
-    "id": "salon-h",
-    "name": "Salon H",
-    "mapBounds": { "x": 0.775, "y": 0.0965, "width": 0.0916, "height": 0.067 }
-  },
-  {
     "id": "salon-g",
-    "name": "Salon G",
+    "name": "Salon G/H",
     "mapBounds": { "x": 0.775, "y": 0.167, "width": 0.0916, "height": 0.101 }
   },
   {
@@ -38,11 +33,6 @@
     "id": "pleasanton",
     "name": "Pleasanton",
     "mapBounds": { "x": 0.908, "y": 0.028, "width": 0.077, "height": 0.193 }
-  },
-  {
-    "id": "danville",
-    "name": "Danville",
-    "mapBounds": { "x": 0.908, "y": 0.129, "width": 0.077, "height": 0.092 }
   },
   {
     "id": "board-room",
