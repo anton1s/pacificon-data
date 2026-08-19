@@ -2,40 +2,32 @@
   {
     "id": "grand-ballroom",
     "name": "Ballroom",
-    "mapBounds": { "x": 0.641, "y": 0.0965, "width": 0.226, "height": 0.253 }
+    "mapBounds": { "x": 0.641, "y": 0.0914, "width": 0.226, "height": 0.253 }
   },
   {
     "id": "salon-e",
     "name": "Salon E",
-    "mapBounds": { "x": 0.641, "y": 0.0965, "width": 0.130, "height": 0.253 }
+    "mapBounds": { "x": 0.641, "y": 0.0914, "width": 0.130, "height": 0.253 }
   },
   {
     "id": "salon-g",
     "name": "Salon G/H",
-    "mapBounds": [
-      { "x": 0.775, "y": 0.167, "width": 0.0916, "height": 0.101 },
-      { "x": 0.775, "y": 0.092, "width": 0.0916, "height": 0.075 }
-    ]
-  },
-  {
-    "id": "salon-f",
-    "name": "Salon F",
-    "mapBounds": { "x": 0.775, "y": 0.272, "width": 0.0916, "height": 0.077 }
+    "mapBounds": { "x": 0.775, "y": 0.0914, "width": 0.0916, "height": 0.174 }
   },
   {
     "id": "salon-2",
     "name": "Salon 2",
-    "mapBounds": { "x": 0.246, "y": 0.356, "width": 0.106, "height": 0.088 }
+    "mapBounds": { "x": 0.246, "y": 0.3525, "width": 0.106, "height": 0.088 }
   },
   {
     "id": "food",
     "name": "Breakfast/Lunch",
-    "mapBounds": { "x": 0.401, "y": 0.53, "width": 0.075, "height": 0.340 }
+    "mapBounds": { "x": 0.401, "y": 0.527, "width": 0.075, "height": 0.340 }
   },
   {
     "id": "pleasanton",
     "name": "Pleasanton",
-    "mapBounds": { "x": 0.908, "y": 0.028, "width": 0.077, "height": 0.193 }
+    "mapBounds": { "x": 0.908, "y": 0.023, "width": 0.077, "height": 0.193 }
   },
   {
     "id": "board-room",
@@ -45,22 +37,22 @@
   {
     "id": "bishop-hall",
     "name": "Bishop Hall",
-    "mapBounds": { "x": 0.402, "y": 0.096, "width": 0.233, "height": 0.255 }
+    "mapBounds": { "x": 0.402, "y": 0.0914, "width": 0.233, "height": 0.255 }
   },
   {
     "id": "contra-hall",
     "name": "Contra Costa Hall",
-    "mapBounds": { "x": 0.1695, "y": 0.470, "width": 0.183, "height": 0.306 }
+    "mapBounds": { "x": 0.1695, "y": 0.4685, "width": 0.183, "height": 0.306 }
   },
   {
     "id": "w1aw-6",
     "name": "W1AW/6",
-    "mapBounds": { "x": 0.765, "y": 0.450, "width": 0.092, "height": 0.121 }
+    "mapBounds": { "x": 0.765, "y": 0.447, "width": 0.092, "height": 0.121 }
   },
   {
     "id": "kit-building",
     "name": "Kit Building",
-    "mapBounds": { "x": 0.438, "y": 0.460, "width": 0.059, "height": 0.064 }
+    "mapBounds": { "x": 0.438, "y": 0.457, "width": 0.059, "height": 0.064 }
   },
   {
     "id": "prize-booth",
@@ -75,22 +67,22 @@
   {
     "id": "contra-hallway",
     "name": "Contra Costa Hallway",
-    "mapBounds": { "x": 0.357, "y": 0.4525, "width": 0.040, "height": 0.418 }
+    "mapBounds": { "x": 0.357, "y": 0.4495, "width": 0.040, "height": 0.421 }
   },
   {
     "id": "bishop-hallway",
     "name": "Bishop Hallway",
     "mapBounds": [
-      { "x": 0.356, "y": 0.0940, "width": 0.043, "height": 0.352 },
-      { "x": 0.398, "y": 0.350, "width": 0.592, "height": 0.088 }
+      { "x": 0.356, "y": 0.087, "width": 0.043, "height": 0.356 },
+      { "x": 0.398, "y": 0.350, "width": 0.592, "height": 0.084 }
     ]
   },
   {
     "id": "restrooms",
     "name": "Restrooms",
     "mapBounds": [
-      { "x": 0.871, "y": 0.443, "width": 0.115, "height": 0.130 },
-      { "x": 0.090, "y": 0.592, "width": 0.075, "height": 0.125 }
+      { "x": 0.871, "y": 0.44, "width": 0.115, "height": 0.130 },
+      { "x": 0.090, "y": 0.5925, "width": 0.075, "height": 0.12 }
     ]
   }
 ]
