@@ -12,7 +12,10 @@
   {
     "id": "salon-g",
     "name": "Salon G/H",
-    "mapBounds": { "x": 0.775, "y": 0.167, "width": 0.0916, "height": 0.101 }
+    "mapBounds": [
+      { "x": 0.775, "y": 0.167, "width": 0.0916, "height": 0.101 },
+      { "x": 0.775, "y": 0.092, "width": 0.0916, "height": 0.075 }
+    ]
   },
   {
     "id": "salon-f",
