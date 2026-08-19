@@ -1,7 +1,7 @@
 [
   {
     "id": "grand-ballroom",
-    "name": "Grand Ballroom",
+    "name": "Ballroom",
     "mapBounds": { "x": 0.641, "y": 0.0965, "width": 0.226, "height": 0.253 }
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "id": "bishop-hall",
-    "name": "Bishop Vendor Hall",
+    "name": "Bishop Hall",
     "mapBounds": { "x": 0.402, "y": 0.096, "width": 0.233, "height": 0.255 }
   },
   {
     "id": "contra-hall",
-    "name": "Contra Costa Vendor Hall",
+    "name": "Contra Costa Hall",
     "mapBounds": { "x": 0.1695, "y": 0.470, "width": 0.183, "height": 0.306 }
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "id": "prize-booth",
-    "name": "Prize Booth",
+    "name": "Prizes",
     "mapBounds": { "x": 0.151, "y": 0.932, "width": 0.087, "height": 0.040 }
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "id": "bishop-hallway",
-    "name": "Bishop Ranch Hallway",
+    "name": "Bishop Hallway",
     "mapBounds": [
       { "x": 0.356, "y": 0.0940, "width": 0.043, "height": 0.352 },
       { "x": 0.398, "y": 0.350, "width": 0.592, "height": 0.088 }
