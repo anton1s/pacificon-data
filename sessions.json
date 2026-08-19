@@ -90,13 +90,13 @@
   {
     "id": "n9ys-saturday-0900",
     "speakerId": "n9ys",
-    "title": "Yin Shih, N9YS",
+    "title": "EZ Printed Circuit Designs for QRP",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "09:00",
     "endTime": "09:50",
     "roomId": "pleasanton",
-    "description": ""
+    "description": "QRPers are often active kit builders, but with the availability of free CAD tools and low-cost, low-volume printed circuit board fabricators, it is very easy to realize your own circuit design ideas or even just adapt someone else's circuit design, but with your own custom changes.  This talk will walk through the CAD tools, design, layout, and fabrication processes, using a simple QRP accessory as an example."
   },
   {
     "id": "ki6msp-saturday-1000",
@@ -266,13 +266,13 @@
   {
     "id": "ah6cy-saturday-1400",
     "speakerId": "ah6cy",
-    "title": "Hiroki Kato, AH6CY",
+    "title": "Using Spy Radios from WWII and the Cold War",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "14:00",
     "endTime": "14:50",
     "roomId": "pleasanton",
-    "description": ""
+    "description": "Historical background of spy radio development, difference between spy radios and ordinary radios and how spy radios were used will be discussed. Four actual spy radios (B2, Paraset, GRC-109 and RS-6) will be shown. How to replicate the Paraset will also be presented."
   },
   {
     "id": "kn6plv-saturday-1500",
@@ -310,13 +310,13 @@
   {
     "id": "k0neb-saturday-1500",
     "speakerId": "k0neb",
-    "title": "Joe Eisenberg, K0NEB",
+    "title": "3D Printing for Radio",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "15:00",
     "endTime": "15:50",
     "roomId": "pleasanton",
-    "description": ""
+    "description": "A look at the world of 3D printing and the many useful things we can make for Amateur Radio.  Ill cover the different types of 3D printers and the different materials we can work with to make parts, antennas, cases, and other useful items."
   },
   {
     "id": "kw5gp-saturday-1600",
