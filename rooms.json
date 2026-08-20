@@ -22,7 +22,7 @@
   {
     "id": "food",
     "name": "Breakfast/Lunch",
-    "mapBounds": { "x": 0.401, "y": 0.527, "width": 0.075, "height": 0.340 }
+    "mapBounds": { "x": 0.501, "y": 0.442, "width": 0.265, "height": 0.130 }
   },
   {
     "id": "pleasanton",
