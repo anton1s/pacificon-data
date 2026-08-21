@@ -41,7 +41,7 @@
     "startTime": "08:00",
     "endTime": "08:50",
     "roomId": "salon-g",
-    "description": "Bruce Perens K6BP will discuss a number of innovations for Amateur Radio Emergency Services. One is a new system for\nemergency communications, employing multiple workstations per radio to\nfacilitate more efficient exchange of Incident Management\ncommunications, and a novel method of computer route determination\nthat can steward the relaying of messages through multiple stations\nacross the country, or around the world, entirely by radio.\n\nBruce has also created an AI-based system that has turned the boring\nPowerPoints of FEMA into exciting novels! They are made with story\ndevelopment methods taken from Pixar, and incorporate interactive\nmemory-reinforcing Q&A, including reading and understanding ICS forms\nthat match the activity, throughout the story. While not yet\nFEMA-approved, this training program makes it a breeze to learn the\nmaterial and, if necessary, pass the FEMA-mandated course.\n-"
+    "description": "Bruce Perens K6BP will discuss a number of innovations for Amateur Radio Emergency Services. One is a new system for emergency communications, employing multiple workstations per radio to facilitate more efficient exchange of Incident Management communications, and a novel method of computer route determination that can steward the relaying of messages through multiple stations across the country, or around the world, entirely by radio.\n\nBruce has also created an AI-based system that has turned the boring PowerPoints of FEMA into exciting novels! They are made with story development methods taken from Pixar, and incorporate interactive memory-reinforcing Q&A, including reading and understanding ICS forms that match the activity, throughout the story. While not yet FEMA-approved, this training program makes it a breeze to learn the material and, if necessary, pass the FEMA-mandated course."
   },
   {
     "id": "k6ufo-saturday-0800",
@@ -96,7 +96,7 @@
     "startTime": "09:00",
     "endTime": "09:50",
     "roomId": "pleasanton",
-    "description": "QRPers are often active kit builders, but with the availability of free CAD tools and low-cost, low-volume printed circuit board fabricators, it is very easy to realize your own circuit design ideas or even just adapt someone else's circuit design, but with your own custom changes.  This talk will walk through the CAD tools, design, layout, and fabrication processes, using a simple QRP accessory as an example."
+    "description": "QRPers are often active kit builders, but with the availability of free CAD tools and low-cost, low-volume printed circuit board fabricators, it is very easy to realize your own circuit design ideas or even just adapt someone else's circuit design, but with your own custom changes. This talk will walk through the CAD tools, design, layout, and fabrication processes, using a simple QRP accessory as an example."
   },
   {
     "id": "ki6msp-saturday-1000",
@@ -239,7 +239,7 @@
     "startTime": "14:00",
     "endTime": "14:50",
     "roomId": "salon-2",
-    "description": "Is Ohm’s Law really a law?  How about other laws, like Kirchhoff’s Laws for voltage and current, Lenz’s Law, and Snell’s Law?  In some cases these are reliable models that we can depend on, but in other cases they break down in some circumstances and can lead us astray.  Let’s take some time to learn about some of these so-called Laws and see how well they hold up under all sorts of circumstances.  And we will, of course, show how to break Ohm’s Law!"
+    "description": "Is Ohm’s Law really a law? How about other laws, like Kirchhoff’s Laws for voltage and current, Lenz’s Law, and Snell’s Law? In some cases these are reliable models that we can depend on, but in other cases they break down in some circumstances and can lead us astray. Let’s take some time to learn about some of these so-called Laws and see how well they hold up under all sorts of circumstances. And we will, of course, show how to break Ohm’s Law!"
   },
   {
     "id": "wb6lvc-saturday-1400",
@@ -250,7 +250,7 @@
     "startTime": "14:00",
     "endTime": "14:50",
     "roomId": "salon-e",
-    "description": "Come meet up with other YLs who enjoy your passion for Amateur Radio.  There will be a few short presentations, after which there will be time to share your stories and connect with others who share an interest in the areas you find most interesting in our hobby."
+    "description": "Come meet up with other YLs who enjoy your passion for Amateur Radio. There will be a few short presentations, after which there will be time to share your stories and connect with others who share an interest in the areas you find most interesting in our hobby."
   },
   {
     "id": "af7yq-saturday-1400",
@@ -294,7 +294,7 @@
     "startTime": "15:00",
     "endTime": "15:50",
     "roomId": "salon-e",
-    "description": "Come meet up with other YLs who enjoy your passion for Amateur Radio.  There will be a few short presentations, after which there will be time to share your stories and connect with others who share an interest in the areas you find most interesting in our hobby."
+    "description": "Come meet up with other YLs who enjoy your passion for Amateur Radio. There will be a few short presentations, after which there will be time to share your stories and connect with others who share an interest in the areas you find most interesting in our hobby."
   },
   {
     "id": "n4ml-saturday-1500",
@@ -316,7 +316,7 @@
     "startTime": "15:00",
     "endTime": "15:50",
     "roomId": "pleasanton",
-    "description": "A look at the world of 3D printing and the many useful things we can make for Amateur Radio.  Ill cover the different types of 3D printers and the different materials we can work with to make parts, antennas, cases, and other useful items."
+    "description": "A look at the world of 3D printing and the many useful things we can make for Amateur Radio. Ill cover the different types of 3D printers and the different materials we can work with to make parts, antennas, cases, and other useful items."
   },
   {
     "id": "kw5gp-saturday-1600",
@@ -327,7 +327,7 @@
     "startTime": "16:00",
     "endTime": "16:50",
     "roomId": "salon-2",
-    "description": "Join ARRL author Glen Popiel, KW5GP,  as he discusses the Arduino and other microcontrollers. Learn just how much fun you can have creating your own microcontroller-based projects for your ham shack, family, and friends."
+    "description": "Join ARRL author Glen Popiel, KW5GP, as he discusses the Arduino and other microcontrollers. Learn just how much fun you can have creating your own microcontroller-based projects for your ham shack, family, and friends."
   },
   {
     "id": "k6kjn-saturday-1600",
@@ -393,7 +393,7 @@
     "startTime": "11:00",
     "endTime": "11:50",
     "roomId": "pleasanton",
-    "description": "We will present analysis of 2m bandpass filters both home made and commercial to mitigate interference and front end overload on summits with broadcast towers.  We will show both bench and field measurements and report on real-world performance.  We will also detail helical filter builds and tuning possibilities for some of the most challenging near-band interferences."
+    "description": "We will present analysis of 2m bandpass filters both home made and commercial to mitigate interference and front end overload on summits with broadcast towers. We will show both bench and field measurements and report on real-world performance. We will also detail helical filter builds and tuning possibilities for some of the most challenging near-band interferences."
   },
   {
     "id": "nz6q-sunday-1300",
@@ -448,7 +448,7 @@
     "startTime": "13:00",
     "endTime": "13:50",
     "roomId": "salon-e",
-    "description": "Popular antenna modeling programs do many things well but do some things poorly, even things that are simple and basic.  Perhaps most surprising, numerical programs do not predict a dipole's resonant frequency or resistance accurately.  We explore this problem from the perspective of antenna theory, and give simple formulas and graphs that are easy to use.  This talk expands on \"The Mysterious Multiplying Factor K\" which the author presented at Pacificon 2018."
+    "description": "Popular antenna modeling programs do many things well but do some things poorly, even things that are simple and basic. Perhaps most surprising, numerical programs do not predict a dipole's resonant frequency or resistance accurately. We explore this problem from the perspective of antenna theory, and give simple formulas and graphs that are easy to use. This talk expands on \"The Mysterious Multiplying Factor K\" which the author presented at Pacificon 2018."
   },
   {
     "id": "aa6mp-friday-1400",
@@ -459,7 +459,7 @@
     "startTime": "14:00",
     "endTime": "14:50",
     "roomId": "salon-e",
-    "description": "You’ve got the transformer, and a roll of wire. How can this thing be set up?  Where’s the RF going to go?  What happens when you change bands?\nMichelle will discuss the basics of this popular antenna, and show how the physics of this simple radiator can produce shocking surprises and very non-intuitive results.  Learn how this antenna behaves across the HF spectrum and how to take advantage of it’s characteristics."
+    "description": "You’ve got the transformer, and a roll of wire. How can this thing be set up? Where’s the RF going to go? What happens when you change bands? Michelle will discuss the basics of this popular antenna, and show how the physics of this simple radiator can produce shocking surprises and very non-intuitive results. Learn how this antenna behaves across the HF spectrum and how to take advantage of it’s characteristics."
   },
   {
     "id": "k6bp-friday-1500",
