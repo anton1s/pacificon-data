@@ -407,6 +407,17 @@
     "description": ""
   },
   {
+    "id": "w2gmd-sunday-1300",
+    "speakerId": "w2gmd",
+    "title": "Don't Look Up: Drone Detection and the RF Spectrum",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "roomId": "pleasanton",
+    "description": "The sky over every city is full of drones, and all of them are talking. This talk is a field guide to that spectrum. Remote ID, the FAA's digital license plate, is an unencrypted broadcast on 2.4 and 5.8 GHz and Bluetooth that any nearby receiver can read, and that anyone can forge. We walk the signal end to end: how the open standard and DJI's proprietary DroneID look on the air, how to decode them with a fifty-dollar receiver or an SDR, why it is trivially spoofable, and how direction finding puts a fix on the operator."
+  },
+  {
     "id": "n6bt-friday-0900",
     "speakerId": "n6bt",
     "title": "Drone Field Strength Measurement",

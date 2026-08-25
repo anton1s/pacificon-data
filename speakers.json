@@ -246,6 +246,12 @@
     "bio": ""
   },
   {
+    "id": "w2gmd",
+    "name": "Greg Albrecht",
+    "callsign": "W2GMD",
+    "bio": "Greg (W2GMD) is a network and RF engineer who runs drone detection and EMS at large public events. He works with software-defined radio, TAK, and open-source tooling to read what is actually flying in the low-altitude spectrum, from Remote ID beacons to proprietary control links."
+  },
+  {
     "id": "w6msd",
     "name": "Bert Henderson",
     "callsign": "W6MSD",
