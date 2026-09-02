@@ -12,6 +12,12 @@
     "bio": "Michelle Paquette moved to the Portland, Oregon area in 2020, after living in the San Francisco Bay Area most of her life. She has worked in fields from nuclear power plant operations to software engineering, as an engineer and trainer. A physics nerd, Michelle holds a number of patents and an Amateur Extra license, and enjoys restoring old vacuum tube radio gear and playing with wires."
   },
   {
+    "id": "aa6pp",
+    "name": "Dr Antonis Papatsaras",
+    "callsign": "AA6PP",
+    "bio": ""
+  },
+  {
     "id": "af7yq",
     "name": "Eric Anderson & Suzanne Muoio",
     "callsign": "AF7YQ",
@@ -33,7 +39,7 @@
     "id": "ai6ym",
     "name": "Justin Giorgi",
     "callsign": "AI6YM",
-    "bio": "Justin is what happens when curiosity outpaces expertise. A specialist in trial and error, he documents ambitious projects with enthusiasm, hindsight, and more than a little sarcasm. He highlights not just what works, but what definitely didn’t—encouraging others to jump in and learn by doing."
+    "bio": "Justin is what happens when curiosity outpaces expertise. A specialist in trial and error, he documents ambitious projects with enthusiasm, hindsight, and more than a little sarcasm. He highlights not just what works, but what definitely didn't—encouraging others to jump in and learn by doing."
   },
   {
     "id": "k0neb",
@@ -63,7 +69,7 @@
     "id": "k6jds",
     "name": "John Sutter",
     "callsign": "K6JDS",
-    "bio": ""
+    "bio": "John became interested in amateur radio in the early 70s, studying, working on Morse code, and just 40 years later became licensed. His background is in digital hardware, VLSI design, software, and holography. He's still working in embedded RF systems and designing projects for radio amateurs."
   },
   {
     "id": "k6kjn",
@@ -81,7 +87,7 @@
     "id": "k6oik",
     "name": "Steve Stearns",
     "callsign": "K6OIK",
-    "bio": "Steve Stearns, K6OIK, started in ham radio while in high school at the height of the Heathkit era. He holds FCC Amateur Extra and a commercial General Radio Operator license with Radar endorsement. He previously held Novice, Technician, and 1st Class Radiotelephone licenses. He studied electrical engineering at California State University Fullerton, the University of Southern California, and Stanford, specializing in electromagnetics, communication engineering and signal processing. Steve led the development of advanced antennas and algorithms for communication signal processing systems that perform reception, surveillance, reconnaissance, radio direction finding, geo-locating, and signal identification analysis. He was a Technical Fellow at Northrop Grumman Corporation’s Electromagnetic Systems Laboratory in San Jose, California. Steve is serving as vice-president of the Foothills Amateur Radio Society, and served previously as assistant director of ARRL Pacific Division. He has over 100 professional publications and presentations and ten patents. Steve has received numerous awards for professional and community volunteer activities."
+    "bio": "Steve Stearns, K6OIK, started in ham radio while in high school at the height of the Heathkit era. He holds FCC Amateur Extra and a commercial General Radio Operator license with Radar endorsement. He previously held Novice, Technician, and 1st Class Radiotelephone licenses. He studied electrical engineering at California State University Fullerton, the University of Southern California, and Stanford, specializing in electromagnetics, communication engineering and signal processing. Steve led the development of advanced antennas and algorithms for communication signal processing systems that perform reception, surveillance, reconnaissance, radio direction finding, geo-locating, and signal identification analysis. He was a Technical Fellow at Northrop Grumman Corporation's Electromagnetic Systems Laboratory in San Jose, California. Steve is serving as vice-president of the Foothills Amateur Radio Society, and served previously as assistant director of ARRL Pacific Division. He has over 100 professional publications and presentations and ten patents. Steve has received numerous awards for professional and community volunteer activities."
   },
   {
     "id": "k6ufo",
@@ -94,6 +100,12 @@
     "name": "Kristen McIntyre",
     "callsign": "K6WX",
     "bio": "Kristen McIntyre, K6WX, has been interested in radio since she was about 5 years old. She started in Amateur Radio in 1979 getting her ticket while at MIT. Kristen has worked in many diverse areas from analog circuit design to image processing to starting and running an ISP. She is currently working at Apple in Core Networking, and spent many years at Sun Microsystems Laboratories where she was researching robustness and emergent properties of large distributed computer systems. She is a long time denizen of Silicon Valley and has worked at or consulted for many of the usual suspects. Kristen is an active ham and loves to chase DX on HF with her Elecraft K4 and modest station in an urban setting. She is ARRL First Vice President, former Pacific Division Director, past president of the Palo Alto Amateur Radio Assoc., past Q&A columnist for Nuts and Volts magazine, and is active in many local clubs. Kristen was recently inducted into the CQ Amateur Radio Hall of Fame. She is also an Instrument Rated Private Pilot."
+  },
+  {
+    "id": "k6xcx",
+    "name": "Dan Tennery-Spalding",
+    "callsign": "K6XCX",
+    "bio": "Dan Tennery-Spalding spent ten years as an adult educator where he taught adults, created curriculum, and mentored new teachers. He then transitioned to a career in cybersecurity, culminating as a staff senior engineer at Palo Alto Networks. Dan is currently on hiatus from engineering and is focusing on teaching community preparedness around emergency preparedness with a focus on emcomms. He co-founded the Lefty Radio League and has taught radio information and skills to hundreds people, mostly beginners. Most recently he presented on packet radio BBS at the 2026 HOPE conference in New York City."
   },
   {
     "id": "kd6w",
@@ -135,13 +147,13 @@
     "id": "kj6dzb",
     "name": "Mathison Ott",
     "callsign": "KJ6DZB",
-    "bio": "Mathison Ott, KJ6DZB, is a Berkeley-based amateur radio operator, \"Technical professional\", and community organizer. He works as a Senior Scene Technician in audio, video, and live production at UC Berkeley’s Cal Performances, supporting complex performances, broadcasts, and venue systems. In amateur radio, Mathison contributes to local club leadership, emergency communications, mesh networking, weak signal HF, satellite reception, and technical education. He is especially interested in AREDN, Meshtastic, SatNOGS, Raspberry Pi projects, and practical RF experimentation. Through hands-on engineering, public service, and collaboration, Mathison is a ARRL Technical Specialist and works to make technology more useful, accessible, and connected for his community and fellow operators across his region."
+    "bio": "Mathison Ott, KJ6DZB, is a Berkeley-based amateur radio operator, \"Technical professional\", and community organizer. He works as a Senior Scene Technician in audio, video, and live production at UC Berkeley's Cal Performances, supporting complex performances, broadcasts, and venue systems. In amateur radio, Mathison contributes to local club leadership, emergency communications, mesh networking, weak signal HF, satellite reception, and technical education. He is especially interested in AREDN, Meshtastic, SatNOGS, Raspberry Pi projects, and practical RF experimentation. Through hands-on engineering, public service, and collaboration, Mathison is a ARRL Technical Specialist and works to make technology more useful, accessible, and connected for his community and fellow operators across his region."
   },
   {
     "id": "kj6keu",
     "name": "Dan Goldstein",
     "callsign": "KJ6KEU",
-    "bio": "Dan has spent more than four decades connected to public safety and community service. He began as a Community Service Officer with the UC Berkeley Police Department in the 1980s and, since earning his amateur radio license in 2010, has served with the Alameda County Sheriff’s Communications Team, where he is now Administrative Sergeant. He also serves as California Region 2 Emergency Communications Mutual Aid Coordinator and ARRL East Bay Section Emergency Coordinator. Professionally, Dan has worked in IT for 35 years, including 25 in cybersecurity. A Hayward City Council member, he is also active in education, church, youth tutoring."
+    "bio": "Dan has spent more than four decades connected to public safety and community service. He began as a Community Service Officer with the UC Berkeley Police Department in the 1980s and, since earning his amateur radio license in 2010, has served with the Alameda County Sheriff's Communications Team, where he is now Administrative Sergeant. He also serves as California Region 2 Emergency Communications Mutual Aid Coordinator and ARRL East Bay Section Emergency Coordinator. Professionally, Dan has worked in IT for 35 years, including 25 in cybersecurity. A Hayward City Council member, he is also active in education, church, youth tutoring."
   },
   {
     "id": "kj6oui",
@@ -189,13 +201,13 @@
     "id": "kw5gp",
     "name": "Glen Popiel",
     "callsign": "KW5GP",
-    "bio": "Glen Popiel, KW5GP, is the author of ARRL’s Arduino for Ham Radio series of books, along with the new Digital Networking for Ham Radio book and various QST articles and product reviews. He continues to create fun and exciting new Arduino projects for amateur radio with his Maine Coon editors and paper shufflers, Shadow, Angel, and Sasquatch."
+    "bio": "Glen Popiel, KW5GP, is the author of ARRL's Arduino for Ham Radio series of books, along with the new Digital Networking for Ham Radio book and various QST articles and product reviews. He continues to create fun and exciting new Arduino projects for amateur radio with his Maine Coon editors and paper shufflers, Shadow, Angel, and Sasquatch."
   },
   {
     "id": "n0mii",
     "name": "Jeff Logullo",
     "callsign": "N0MII",
-    "bio": ""
+    "bio": "Jeff, N0MII, has been an amateur radio operator since 1990, when he needed a hobby outside of computers. Little did he know… A chance encounter with the St. Louis QRP Society introduced him to the joys of QRP, and he has operated at five watts or less ever since. Jeff especially enjoys outdoor operating, including Field Day, POTA activations, and the Missouri QSO Party. He operates almost exclusively using CW."
   },
   {
     "id": "n1dq",
@@ -237,7 +249,7 @@
     "id": "na5n",
     "name": "Paul Harden",
     "callsign": "NA5N",
-    "bio": ""
+    "bio": "A ham since 1964, mostly CW, and avid QRPer and homebrewer, QRP Hall of Fame inductee. Retired from the Very Large Array radio telescope in receiver design. Still an active QRPer and homebrewer."
   },
   {
     "id": "nz6q",

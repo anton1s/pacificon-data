@@ -74,7 +74,7 @@
     "startTime": "09:00",
     "endTime": "09:50",
     "roomId": "salon-e",
-    "description": "PSKReporter, introduced by Philip Gladstone (N1DQ), answers the core ham radio question: \"Where am I being heard?\". Since its 2008 inception, it has evolved into a central hub aggregating reception reports from thousands of worldwide ham operators using digital mode software like WSJT-X. The system processes UDP packets to provide real-time propagation data via map visualization. This talk will describe the path from the beginnings of Pskreporter in N1DQ’s basement, through the huge growth in digital mode traffic over the last 18 years to the present. It will conclude with a roadmap for the future and potential avenues to securing the future of the Pskreporter system."
+    "description": "PSKReporter, introduced by Philip Gladstone (N1DQ), answers the core ham radio question: \"Where am I being heard?\". Since its 2008 inception, it has evolved into a central hub aggregating reception reports from thousands of worldwide ham operators using digital mode software like WSJT-X. The system processes UDP packets to provide real-time propagation data via map visualization. This talk will describe the path from the beginnings of Pskreporter in N1DQ's basement, through the huge growth in digital mode traffic over the last 18 years to the present. It will conclude with a roadmap for the future and potential avenues to securing the future of the Pskreporter system."
   },
   {
     "id": "kh6fv-saturday-0900",
@@ -129,18 +129,18 @@
     "startTime": "10:00",
     "endTime": "10:50",
     "roomId": "salon-g",
-    "description": "Contesting is where great operators are made. It pushes you to master operating skills, build efficient stations, and understand propagation in real time. If you’re into emergency communications, contesting sharpens speed, accuracy, and decision-making under pressure. You’ll develop stamina, handle relentless pile-ups, and learn to adapt instantly. It’s also a playground for strategy—optimizing antennas, timing, and tactics for maximum results. No other aspect of amateur radio blends technical knowledge, operating excellence, and competitive spirit quite like contesting. If you want to elevate your skills and truly test your station, contesting is the ultimate arena."
+    "description": "Contesting is where great operators are made. It pushes you to master operating skills, build efficient stations, and understand propagation in real time. If you're into emergency communications, contesting sharpens speed, accuracy, and decision-making under pressure. You'll develop stamina, handle relentless pile-ups, and learn to adapt instantly. It's also a playground for strategy—optimizing antennas, timing, and tactics for maximum results. No other aspect of amateur radio blends technical knowledge, operating excellence, and competitive spirit quite like contesting. If you want to elevate your skills and truly test your station, contesting is the ultimate arena."
   },
   {
     "id": "k6jds-saturday-1000",
     "speakerId": "k6jds",
-    "title": "John Sutter, K6JDS",
+    "title": "What Goes Into a Group Build Project",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "10:00",
     "endTime": "10:50",
     "roomId": "pleasanton",
-    "description": ""
+    "description": "I will give a tour of what it takes to put together a project that is kit-able, build-able, and usable. Spoiler: It almost always starts with a call from Doug."
   },
   {
     "id": "sara-paul-saturday-1100",
@@ -178,13 +178,13 @@
   {
     "id": "na5n-saturday-1100",
     "speakerId": "na5n",
-    "title": "Paul Harden, NA5N",
+    "title": "QRP Homebrew Practices",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "11:00",
     "endTime": "11:50",
     "roomId": "pleasanton",
-    "description": ""
+    "description": "Techniques for building your own QRP homebrew equipment from ugly construction to Manhattan style. Presentation includes step by step procedures for building a simple crystal oscillator during the Saturday evening QRP Open House. All parts and soldering aids provided."
   },
   {
     "id": "kt6r-saturday-1300",
@@ -222,24 +222,24 @@
   {
     "id": "n0mii-saturday-1300",
     "speakerId": "n0mii",
-    "title": "Jeff Logullo, N0MII",
+    "title": "39 Years of QRP: The St. Louis QRP Society Story",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "13:00",
     "endTime": "13:50",
     "roomId": "pleasanton",
-    "description": ""
+    "description": "The St. Louis QRP Society has thrived for nearly four decades. How did it get started? How does it continue to attract new members? What is the secret to its success? This presentation explores the club's history, members, kits, projects, activities, and influence—and may offer ideas you can apply to your own club."
   },
   {
     "id": "k6wx-saturday-1400",
     "speakerId": "k6wx",
-    "title": "Breaking Ohm's Law",
+    "title": "Breaking Ohm’s Law",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "14:00",
     "endTime": "14:50",
     "roomId": "salon-2",
-    "description": "Is Ohm’s Law really a law? How about other laws, like Kirchhoff’s Laws for voltage and current, Lenz’s Law, and Snell’s Law? In some cases these are reliable models that we can depend on, but in other cases they break down in some circumstances and can lead us astray. Let’s take some time to learn about some of these so-called Laws and see how well they hold up under all sorts of circumstances. And we will, of course, show how to break Ohm’s Law!"
+    "description": "Is Ohm's Law really a law? How about other laws, like Kirchhoff's Laws for voltage and current, Lenz's Law, and Snell's Law? In some cases these are reliable models that we can depend on, but in other cases they break down in some circumstances and can lead us astray. Let's take some time to learn about some of these so-called Laws and see how well they hold up under all sorts of circumstances. And we will, of course, show how to break Ohm's Law!"
   },
   {
     "id": "wb6lvc-saturday-1400",
@@ -305,7 +305,7 @@
     "startTime": "15:00",
     "endTime": "15:50",
     "roomId": "salon-g",
-    "description": "ARRL’s mission includes developing the next generation of radio amateurs. Learn about the programs, resources, and opportunities that are introducing young people to amateur radio, inspiring them to be active hams, and encouraging them to pursue higher education and careers in wireless technology and radio communications. Sponsored by ARRL The National Association for Amateur Radio®."
+    "description": "ARRL's mission includes developing the next generation of radio amateurs. Learn about the programs, resources, and opportunities that are introducing young people to amateur radio, inspiring them to be active hams, and encouraging them to pursue higher education and careers in wireless technology and radio communications. Sponsored by ARRL The National Association for Amateur Radio®."
   },
   {
     "id": "k0neb-saturday-1500",
@@ -341,6 +341,17 @@
     "description": "DLARC is Internet Archive's free online ham radio library, offering free access to callbooks, ham radio newsletters and magazines from around the world, conference archives, historical research, and more. The curator will show some of the material that has been added to the library in the past year, and what's next."
   },
   {
+    "id": "w2gmd-saturday-1600",
+    "speakerId": "w2gmd",
+    "title": "Don't Look Up: Drone Detection and the RF Spectrum",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "roomId": "salon-g",
+    "description": "The sky over every city is full of drones, and all of them are talking. This talk is a field guide to that spectrum. Remote ID, the FAA's digital license plate, is an unencrypted broadcast on 2.4 and 5.8 GHz and Bluetooth that any nearby receiver can read, and that anyone can forge. We walk the signal end to end: how the open standard and DJI's proprietary DroneID look on the air, how to decode them with a fifty-dollar receiver or an SDR, why it is trivially spoofable, and how direction finding puts a fix on the operator."
+  },
+  {
     "id": "kj6dzb-saturday-1600",
     "speakerId": "kj6dzb",
     "title": "Trolling the International Space Station",
@@ -350,6 +361,17 @@
     "endTime": "16:50",
     "roomId": "pleasanton",
     "description": "history of Ameture radio on ISS, The antennas the Radios, What you can do to Work it!"
+  },
+  {
+    "id": "k6xcx-sunday-1000",
+    "speakerId": "k6xcx",
+    "title": "How to Run an Activity that Brings in Radio Novices",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "roomId": "salon-2",
+    "description": "We all know that we need to bring new people into Ham radio to keep the hobby alive. But that's easier said that done -- until now. Dan Tennery-Spalding has organized numerous talks, workshops and activities that have attracted veteran operators and radio novices alike. This presentation will cover everything you need to plan and run your own event that brings in novices (people with no prior radio experience), from promotion to planning to execution to follow up. No experience is expected or required; people brand-new to facilitating radio events are especially encouraged to come!"
   },
   {
     "id": "ai6ym-sunday-1000",
@@ -372,6 +394,17 @@
     "endTime": "10:50",
     "roomId": "pleasanton",
     "description": "Pirates, spies, military coupes, opera singers, preachers, tech nerds, propaganda ministers, and artisans are all hanging out on the International Shortwave bands. Learn about Radio Caroline, the Japanese Slot Machine, the Numbers Stations, the Chinese Robot, the Russian Woodpecker, Radio Shoestring and more.\n\nWe will explore what can be heard on these bands today, touch on memorable stations of days gone by, learn how to set up your listening post, how to QSL, find clubs/resources, and much more.\n\nBONUS: At the end of the session two lucky attendees will win a $200 ETON Elite Shortwave/AM/FM/VHF radio."
+  },
+  {
+    "id": "aa6pp-sunday-1100",
+    "speakerId": "aa6pp",
+    "title": "Sixteen Cities, One Signal: Building a Global Ham Radio Event",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "roomId": "salon-2",
+    "description": "How do you turn an idea into a coordinated worldwide amateur radio event? This presentation shares the story behind the World Soccer Tournament Special Event Station, which brought together operators across sixteen North American host cities and engaged radio amateurs around the globe. Drawing on our experience building wc2026ses.org, recruiting and coordinating volunteers, scheduling thousands of operating hours, and managing logs, awards and communications, I will present a practical playbook for clubs planning special events. Attendees will learn how to design the organization, technology and operating model—and what we would do differently."
   },
   {
     "id": "k6aq-sunday-1100",
@@ -405,17 +438,6 @@
     "endTime": "13:50",
     "roomId": "salon-e",
     "description": ""
-  },
-  {
-    "id": "w2gmd-sunday-1300",
-    "speakerId": "w2gmd",
-    "title": "Don't Look Up: Drone Detection and the RF Spectrum",
-    "day": "sunday",
-    "date": "2026-10-18",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "roomId": "pleasanton",
-    "description": "The sky over every city is full of drones, and all of them are talking. This talk is a field guide to that spectrum. Remote ID, the FAA's digital license plate, is an unencrypted broadcast on 2.4 and 5.8 GHz and Bluetooth that any nearby receiver can read, and that anyone can forge. We walk the signal end to end: how the open standard and DJI's proprietary DroneID look on the air, how to decode them with a fifty-dollar receiver or an SDR, why it is trivially spoofable, and how direction finding puts a fix on the operator."
   },
   {
     "id": "n6bt-friday-0900",
@@ -470,7 +492,7 @@
     "startTime": "14:00",
     "endTime": "14:50",
     "roomId": "salon-e",
-    "description": "You’ve got the transformer, and a roll of wire. How can this thing be set up? Where’s the RF going to go? What happens when you change bands? Michelle will discuss the basics of this popular antenna, and show how the physics of this simple radiator can produce shocking surprises and very non-intuitive results. Learn how this antenna behaves across the HF spectrum and how to take advantage of it’s characteristics."
+    "description": "You've got the transformer, and a roll of wire. How can this thing be set up? Where's the RF going to go? What happens when you change bands? Michelle will discuss the basics of this popular antenna, and show how the physics of this simple radiator can produce shocking surprises and very non-intuitive results. Learn how this antenna behaves across the HF spectrum and how to take advantage of it's characteristics."
   },
   {
     "id": "k6bp-friday-1500",
