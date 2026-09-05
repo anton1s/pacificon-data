@@ -42,12 +42,19 @@
   {
     "id": "bishop-hall",
     "name": "Bishop Hall",
-    "mapBounds": { "x": 0.402, "y": 0.0914, "width": 0.233, "height": 0.255 }
+    "mapBounds": [
+      { "x": 0.356, "y": 0.087, "width": 0.043, "height": 0.356 },
+      { "x": 0.398, "y": 0.350, "width": 0.592, "height": 0.084 }
+      { "x": 0.402, "y": 0.0914, "width": 0.233, "height": 0.255 }
+    ]
   },
   {
     "id": "contra-hall",
     "name": "Contra Costa Hall",
-    "mapBounds": { "x": 0.1695, "y": 0.4685, "width": 0.183, "height": 0.306 }
+    "mapBounds": [
+      { "x": 0.1695, "y": 0.4685, "width": 0.183, "height": 0.306 },
+      { "x": 0.357, "y": 0.4495, "width": 0.040, "height": 0.421 }
+    ]
   },
   {
     "id": "w1aw-6",
