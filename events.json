@@ -1,0 +1,272 @@
+[
+  {
+    "id": "qrp-dinner",
+    "title": "QRP No-host Dinner",
+    "day": "friday",
+    "date": "2026-10-16",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "roomId": "",
+    "description": "Friday Night we will meet in the lobby of the hotel at 4:30pm to arrange transportation to the Qrp Banquet held at Panera Bread, Dutch treat."
+  },
+  {
+    "id": "mdarc-club-meeting",
+    "title": "Mt Diablo Amateur Radio Club Meeting",
+    "day": "friday",
+    "date": "2026-10-16",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "roomId": "salon-e",
+    "description": "Join Us for Dinner and a Show! Grab your dinner and bring it to the meeting. No Pacificon attendee badge is required to attend this meeting.."
+  },
+  {
+    "id": "qrp-open-house",
+    "title": "QRP Open House",
+    "day": "friday",
+    "date": "2026-10-16",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "roomId": "pleasanton",
+    "description": "Friday night QRP Open House will be held in the Danville room starting at 7:00PM, and will feature Paul Harden NA5N giving a talk on CW History, followed by a Qrp Auction featuring Doug Hendricks KI6DS as Auctioneer. That will be followed by a show and tell of members building projects."
+  },
+  {
+    "id": "ham-license-0800",
+    "title": "Ham License Testing",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "roomId": "area-trivalley1",
+    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
+  },
+  {
+    "id": "tech-class",
+    "title": "One Day Technician License Class",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "roomId": "area-trivalley1",
+    "description": "There are no excuses for not getting your first license at Pacificon℠. Rich Harrington KN6FW and Paul Shinn K6FRC will be giving the One-Day Amateur Radio License Class at Pacificon℠. Get your Technician License IN ONE DAY!"
+  },
+  {
+    "id": "scouting-activities",
+    "title": "Scouting Activities, Merit Badges",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "roomId": "salon-f",
+    "description": "Scouts are invited to experience Jamboree-on-the-Air by talking and listening on amateur radio while working toward the Radio and Electronics Merit Badges. Amateur Radio license exams for new licenses, upgrades, and retakes will run Saturday from 8:00 a.m. to noon. Electronic kit assembly is available from 9:00 a.m. to 3:00 p.m.; allow one to two hours and bring $5–$20 for a kit. Scouts can also explore the latest radio technology in Pacificon’s Vendor Exhibit Hall. Limited Jamboree-on-the-Air patches may be available. Activities continue Sunday, and Scouts wearing full uniform receive free admission throughout the entire weekend at the Pacificon conference."
+  },
+  {
+    "id": "electronic-kits-saturday",
+    "title": "Electronic Kit Building",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "09:00",
+    "endTime": "15:00",
+    "roomId": "kit-building",
+    "description": "Electronic Kit Assembly is a hands-on activity open to participants of all ages who want to learn how to solder and build simple electronic projects. Choose from a variety of affordable kits and receive personalized, one-on-one guidance from an experienced volunteer. You will learn how to identify basic electronic components, place and assemble them correctly, and use soldering tools safely and effectively. Volunteers will help you throughout the entire process, from opening the kit to testing the finished project. Once your creation is assembled and working properly, it is yours to take home, enjoy, demonstrate, and continue learning from afterward."
+  },
+  {
+    "id": "electronic-kits-sunday",
+    "title": "Electronic Kit Building",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "roomId": "kit-building",
+    "description": "Electronic Kit Assembly is a hands-on activity open to participants of all ages who want to learn how to solder and build simple electronic projects. Choose from a variety of affordable kits and receive personalized, one-on-one guidance from an experienced volunteer. You will learn how to identify basic electronic components, place and assemble them correctly, and use soldering tools safely and effectively. Volunteers will help you throughout the entire process, from opening the kit to testing the finished project. Once your creation is assembled and working properly, it is yours to take home, enjoy, demonstrate, and continue learning from afterward."
+  },
+  {
+    "id": "prize-draw-2100",
+    "title": "Prize Drawing",
+    "day": "friday",
+    "date": "2026-10-16",
+    "startTime": "21:00",
+    "endTime": "21:15",
+    "roomId": "salon-e",
+    "description": "We have great prizes for you to win and we are holding 6 drawings throught the event.   If you’re a winner, bring your winning ticket stub to the Prize Booth to claim your prize. Winning numbers will be posted, so stop by often to see if your number is there.\n\nWith the exception of the Grand Prizes, all prizes must be claimed by 12:15 PM on Sunday. All prizes not claimed by then will be taken to the ARRL Forum on Sunday afternoon, where a final drawing will be held to award them to persons in attendance.\n\nIf the Grand Prize winner has not claimed his/her prize by the end of the conference, we will attempt to contact them to arrange for pickup. If that fails, we will ship the prize to the address we have in the person’s registration record."
+  },
+  {
+    "id": "prize-draw-1100",
+    "title": "Prize Drawing",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "11:00",
+    "endTime": "11:15",
+    "roomId": "prize-booth",
+    "description": "We have great prizes for you to win and we are holding 6 drawings throught the event.   If you’re a winner, bring your winning ticket stub to the Prize Booth to claim your prize. Winning numbers will be posted, so stop by often to see if your number is there.\n\nWith the exception of the Grand Prizes, all prizes must be claimed by 12:15 PM on Sunday. All prizes not claimed by then will be taken to the ARRL Forum on Sunday afternoon, where a final drawing will be held to award them to persons in attendance.\n\nIf the Grand Prize winner has not claimed his/her prize by the end of the conference, we will attempt to contact them to arrange for pickup. If that fails, we will ship the prize to the address we have in the person’s registration record."
+  },
+  {
+    "id": "prize-draw-1300",
+    "title": "Prize Drawing",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "13:00",
+    "endTime": "13:15",
+    "roomId": "prize-booth",
+    "description": "We have great prizes for you to win and we are holding 6 drawings throught the event.   If you’re a winner, bring your winning ticket stub to the Prize Booth to claim your prize. Winning numbers will be posted, so stop by often to see if your number is there.\n\nWith the exception of the Grand Prizes, all prizes must be claimed by 12:15 PM on Sunday. All prizes not claimed by then will be taken to the ARRL Forum on Sunday afternoon, where a final drawing will be held to award them to persons in attendance.\n\nIf the Grand Prize winner has not claimed his/her prize by the end of the conference, we will attempt to contact them to arrange for pickup. If that fails, we will ship the prize to the address we have in the person’s registration record."
+  },
+  {
+    "id": "prize-draw-1600",
+    "title": "Prize Drawing",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "16:00",
+    "endTime": "16:15",
+    "roomId": "prize-booth",
+    "description": "We have great prizes for you to win and we are holding 6 drawings throught the event.   If you’re a winner, bring your winning ticket stub to the Prize Booth to claim your prize. Winning numbers will be posted, so stop by often to see if your number is there.\n\nWith the exception of the Grand Prizes, all prizes must be claimed by 12:15 PM on Sunday. All prizes not claimed by then will be taken to the ARRL Forum on Sunday afternoon, where a final drawing will be held to award them to persons in attendance.\n\nIf the Grand Prize winner has not claimed his/her prize by the end of the conference, we will attempt to contact them to arrange for pickup. If that fails, we will ship the prize to the address we have in the person’s registration record."
+  },
+  {
+    "id": "prize-draw-1000",
+    "title": "Prize Drawing",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "10:00",
+    "endTime": "10:15",
+    "roomId": "prize-booth",
+    "description": "We have great prizes for you to win and we are holding 6 drawings throught the event.   If you’re a winner, bring your winning ticket stub to the Prize Booth to claim your prize. Winning numbers will be posted, so stop by often to see if your number is there.\n\nWith the exception of the Grand Prizes, all prizes must be claimed by 12:15 PM on Sunday. All prizes not claimed by then will be taken to the ARRL Forum on Sunday afternoon, where a final drawing will be held to award them to persons in attendance.\n\nIf the Grand Prize winner has not claimed his/her prize by the end of the conference, we will attempt to contact them to arrange for pickup. If that fails, we will ship the prize to the address we have in the person’s registration record."
+  },
+  {
+    "id": "prize-draw-1500",
+    "title": "Prize Drawing",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "15:00",
+    "endTime": "15:15",
+    "roomId": "salon-e",
+    "description": "We have great prizes for you to win and we are holding 6 drawings throught the event.   If you’re a winner, bring your winning ticket stub to the Prize Booth to claim your prize. Winning numbers will be posted, so stop by often to see if your number is there.\n\nWith the exception of the Grand Prizes, all prizes must be claimed by 12:15 PM on Sunday. All prizes not claimed by then will be taken to the ARRL Forum on Sunday afternoon, where a final drawing will be held to award them to persons in attendance.\n\nIf the Grand Prize winner has not claimed his/her prize by the end of the conference, we will attempt to contact them to arrange for pickup. If that fails, we will ship the prize to the address we have in the person’s registration record."
+  },
+  {
+    "id": "t-hunt-1100",
+    "title": "T-Hunting",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "roomId": "area-t-hunt",
+    "description": "Come to the TRANMITTER HUNT canopy near the front hotel entrance and have some fun. If you are interested and don’t have any equipment or have never tried a transmitter hunt come on by, we will have equipment to lend out.  We will educate you and get you hunting.  The frequencies will be: 146.565 MHz for the advanced transmitter and 144.250 MHz for the beginner transmitter."
+  },
+  {
+    "id": "special-event-station-1200",
+    "title": "Special Event Station W1AW/6",
+    "day": "friday",
+    "date": "2026-10-16",
+    "startTime": "12:00",
+    "endTime": "23:59",
+    "roomId": "w1aw-6",
+    "description": "Sponsored by the Palo Alto Amateur Radio Association (PAARA). It is your chance to try your hand at CW, SSB and Digital operating.  Four HF stations available to operate on the 10, 15, 20, 40, or 80 meter HAM bands. The stations will be open continuously from 12 Noon Friday through 12 Noon Sunday. "
+  },
+  {
+    "id": "special-event-station-0000",
+    "title": "Special Event Station W1AW/6",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "00:00",
+    "endTime": "23:59",
+    "roomId": "w1aw-6",
+    "description": "Sponsored by the Palo Alto Amateur Radio Association (PAARA). It is your chance to try your hand at CW, SSB and Digital operating.  Four HF stations available to operate on the 10, 15, 20, 40, or 80 meter HAM bands. The stations will be open continuously from 12 Noon Friday through 12 Noon Sunday. "
+  },
+  {
+    "id": "special-event-station-0001",
+    "title": "Special Event Station W1AW/6",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "00:00",
+    "endTime": "12:00",
+    "roomId": "w1aw-6",
+    "description": "Sponsored by the Palo Alto Amateur Radio Association (PAARA). It is your chance to try your hand at CW, SSB and Digital operating.  Four HF stations available to operate on the 10, 15, 20, 40, or 80 meter HAM bands. The stations will be open continuously from 12 Noon Friday through 12 Noon Sunday. "
+  },
+  {
+    "id": "qrp-operating-1400",
+    "title": "QRP Stations Operating",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "roomId": "area-qrp-ops",
+    "description": "Come and join us outside and see QRP operating in action! "
+  },
+  {
+    "id": "ham-license-1600",
+    "title": "Ham License Testing",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "roomId": "area-trivalley1",
+    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
+  },
+  {
+    "id": "banquet-dinner-1900",
+    "title": "Pacificon Banquet Dinner",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "roomId": "salon-e",
+    "description": "The annual Pacificon℠ Banquet is the way we celebrate an exciting day of events, sessions and activities. You are invited to a catered dinner, an opportunity to network, share stories and celebrate our hobby. We will have a keynote speaker, award ceremonies, prize drawings and more. \n\nRemember you need a ticket to attend; Space is limited."
+  },
+  {
+    "id": "qrp-open-1900",
+    "title": "QRP Open House",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "roomId": "pleasanton",
+    "description": "Saturday Night QRP Open House will be held in the Danville room starting at 7:00PM.  CalQRP is going to host 9 demo stations to demonstrate and teach qrp skills.  Working the stations are Yin Shih, Dan Presley, John Sutter, Paul Harden, Joe Eisenberg,  Darrel Swenson, Doug Hendricks, Matt Kaufman and Jeff Logullo."
+  },
+  {
+    "id": "wouff-hong-2345",
+    "title": "Wouff-Hong Initiation Ceremony",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "23:45",
+    "endTime": "01:00",
+    "roomId": "salon-2",
+    "description": "Every amateur should know and tremble at the history and origins of this fearsome instrument for the punishment of amateurs who cultivate bad operating habits and who nourish and culture their meaner instincts on the air.\n\nIt was invented--or at any rate, discovered-by \"The Old Man\" himself, just as amateurs were getting back on the air after World War One. \"The Old Man\" (who later turned out to be Hiram Percy Maxim, W1AW, co-founder and first president of ARRL) first heard the Wouff Hong described amid the howls and garble of QRM as he tuned across a band filled with signals which exemplified all the rotten operating practices then available to amateurs, considering the state of the art as they knew it. As amateur technology and ingenuity have advanced, we have discovered many new and improved techniques of rotten operating, but we're ahead of our story..."
+  },
+  {
+    "id": "swap-meet-0600",
+    "title": "Swap Meet",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "06:00",
+    "endTime": "12:00",
+    "roomId": "area-parking",
+    "description": "The popular PACIFICON℠ Amateur Electronics Swap Meet takes place again at the San Ramon Marriott Hotel parking lot. Come check it out! Hosted by the Livermore Amateur Radio Klub (LARK), this is a rain or shine event. Admission is free"
+  },
+  {
+    "id": "ham-license-0900",
+    "title": "Ham License Testing",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "roomId": "area-trivalley2",
+    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
+  },
+  {
+    "id": "t-hunt-1101",
+    "title": "T-Hunting",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "roomId": "area-t-hunt",
+    "description": "Come to the TRANMITTER HUNT canopy near the front hotel entrance and have some fun. If you are interested and don’t have any equipment or have never tried a transmitter hunt come on by, we will have equipment to lend out. We will educate you and get you hunting. The frequencies will be: 146.565 MHz for the advanced transmitter and 144.250 MHz for the beginner transmitter. Prize hunt at 12:00pm"
+  },
+  {
+    "id": "arrl-forum-1300",
+    "title": "ARRL Pacific Division Forum",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "roomId": "salon-e",
+    "description": "At the ARRL Forum, you’ll have a chance to meet the ARRL leadership, learn about the latest news, events and activities at the ARRL, and ask questions directly to the leadership. At the conclusion of the Forum there will be the final prize drawing of the event, so be sure to be there to hear your winning ticket drawn."
+  }
+]
