@@ -504,5 +504,16 @@
     "endTime": "15:50",
     "roomId": "salon-e",
     "description": ""
+  },
+  {
+    "id": "k8eal-saturday-1900",
+    "speakerId": "k8eal",
+    "title": "Banquet Keynote: The ARRL Teachers Institute — Successes and Challenges",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "19:00",
+    "endTime": "19:45",
+    "roomId": "salon-e",
+    "description": ""
   }
 ]
