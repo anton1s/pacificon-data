@@ -5,6 +5,11 @@
     "mapBounds": { "x": 0.641, "y": 0.0914, "width": 0.226, "height": 0.253 }
   },
   {
+    "id": "salon-f",
+    "name": "Salon F",
+    "mapBounds": { "x": 0.775, "y": 0.268, "width": 0.0916, "height": 0.078 }
+  },
+  {
     "id": "salon-e",
     "name": "Salon E",
     "mapBounds": { "x": 0.641, "y": 0.0914, "width": 0.130, "height": 0.253 }
