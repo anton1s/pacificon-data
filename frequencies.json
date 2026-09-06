@@ -1,0 +1,32 @@
+[
+  {
+    "id": "talk-in",
+    "title": "Talk-In",
+    "rows": [
+      { "label": "W6CX repeater", "value": "147.060 MHz +", "note": "CTCSS/PL 100 Hz" },
+      { "label": "Simplex", "value": "146.520 MHz" },
+      { "label": "SSTV", "value": "447.800 MHz" },
+      { "label": "APRS", "value": "144.390 MHz" }
+    ]
+  },
+  {
+    "id": "t-hunt",
+    "title": "T-Hunt Frequencies",
+    "rows": [
+      { "label": "Beginner transmitter", "value": "144.250 MHz" },
+      { "label": "Advanced transmitter", "value": "146.565 MHz" }
+    ]
+  },
+  {
+    "id": "meshtastic",
+    "title": "Meshtastic",
+    "rows": [
+      { "label": "LoRa preset", "value": "SHORT_TURBO" },
+      { "label": "Hop limit", "value": "3" },
+      { "label": "Frequency slot", "value": "18" },
+      { "label": "Name", "value": "Pacificon" },
+      { "label": "Key", "value": "FFKJ9v4l1B889fugIibYbAMWozKX6KxpnIeEUVbz1Vc=" },
+      { "label": "Device role", "value": "CLIENT_MUTE" }
+    ]
+  }
+]
