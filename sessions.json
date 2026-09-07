@@ -349,7 +349,7 @@
     "startTime": "16:00",
     "endTime": "16:50",
     "roomId": "salon-g",
-    "description": "The sky over every city is full of drones, and all of them are talking. This talk is a field guide to that spectrum. Remote ID, the FAA's digital license plate, is an unencrypted broadcast on 2.4 and 5.8 GHz and Bluetooth that any nearby receiver can read, and that anyone can forge. We walk the signal end to end: how the open standard and DJI's proprietary DroneID look on the air, how to decode them with a fifty-dollar receiver or an SDR, why it is trivially spoofable, and how direction finding puts a fix on the operator."
+    "description": "The sky over every city is full of drones, and all of them are talking. This presentation is a field guide to that spectrum. Remote ID, the FAA's digital license plate, is an unencrypted broadcast on 2.4 and 5.8 GHz and Bluetooth that any nearby receiver can read, and that anyone can forge. We walk the signal end to end: how the open standard and DJI's proprietary DroneID look on the air, how to decode them with a fifty-dollar receiver or an SDR, why it is trivially spoofable, and how direction finding puts a fix on the operator."
   },
   {
     "id": "kj6dzb-saturday-1600",
@@ -360,7 +360,7 @@
     "startTime": "16:00",
     "endTime": "16:50",
     "roomId": "pleasanton",
-    "description": "history of Ameture radio on ISS, The antennas the Radios, What you can do to Work it!"
+    "description": "The History of Amateur Radio on the ISS: Antennas, Radios, and How You Can Make Contact!"
   },
   {
     "id": "k6xcx-sunday-1000",
