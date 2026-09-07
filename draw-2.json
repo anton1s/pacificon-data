@@ -1,8 +1,10 @@
 {
-  "_howToUse": "Paste the winning numbers into tickets, separated by commas or spaces. Leave empty until the draw has happened. day and time are already set from the schedule \u2014 change them only if a draw moves.",
+  "_howToUse": "Paste the winning numbers into tickets, separated by commas or spaces. Leave empty until the draw has happened. day, date, time and place are set from the schedule \u2014 change them only if a draw moves, and change date too so the reminder moves with it.",
   "label": "Draw 2",
   "day": "Saturday",
+  "date": "2026-10-17",
   "time": "11:00",
+  "place": "the Prize Booth",
   "tickets": "",
   "note": ""
 }
