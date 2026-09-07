@@ -57,7 +57,7 @@
     "startTime": "08:00",
     "endTime": "16:00",
     "roomId": "salon-f",
-    "description": "Scouts are invited to experience Jamboree-on-the-Air by talking and listening on amateur radio while working toward the Radio and Electronics Merit Badges. Amateur Radio license exams for new licenses, upgrades, and retakes will run Saturday from 8:00 a.m. to noon. Electronic kit assembly is available from 9:00 a.m. to 3:00 p.m.; allow one to two hours and bring $5–$20 for a kit. Scouts can also explore the latest radio technology in Pacificon’s Vendor Exhibit Hall. Limited Jamboree-on-the-Air patches may be available. Activities continue Sunday, and Scouts wearing full uniform receive free admission throughout the entire weekend at the Pacificon conference."
+    "description": "Scouts are invited to experience Jamboree-on-the-Air by talking and listening on amateur radio while working toward the Radio and Electronics Merit Badges. Amateur Radio license exams for new licenses, upgrades, and retakes will run Saturday from 8:00 a.m. to noon. Electronic kit assembly is available from 9:00 a.m. to 3:00 p.m.; allow one to two hours to complete the activity. Scouts can also explore the latest radio technology in Pacificon’s Vendor Exhibit Hall. Limited Jamboree-on-the-Air patches may be available. Activities continue Sunday, and Scouts wearing full uniform receive free admission throughout the entire weekend at the Pacificon conference. The cost of materials for Kit Building is covered by our sponsor, Diablo Subaru. (We aren’t charging for materials)"
   },
   {
     "id": "electronic-kits-saturday",
@@ -67,7 +67,7 @@
     "startTime": "09:00",
     "endTime": "15:00",
     "roomId": "kit-building",
-    "description": "Electronic Kit Assembly is a hands-on activity open to participants of all ages who want to learn how to solder and build simple electronic projects. Choose from a variety of affordable kits and receive personalized, one-on-one guidance from an experienced volunteer. You will learn how to identify basic electronic components, place and assemble them correctly, and use soldering tools safely and effectively. Volunteers will help you throughout the entire process, from opening the kit to testing the finished project. Once your creation is assembled and working properly, it is yours to take home, enjoy, demonstrate, and continue learning from afterward."
+    "description": "Electronic Kit Assembly is a hands-on activity open to participants of all ages who want to learn how to solder and build simple electronic projects. Choose from a variety of kits and receive personalized, one-on-one guidance from an experienced volunteer. You will learn how to identify basic electronic components, place and assemble them correctly, and use soldering tools safely and effectively. Volunteers will help you throughout the entire process, from opening the kit to testing the finished project. Once your creation is assembled and working properly, it is yours to take home, enjoy, demonstrate, and continue learning from afterward. The cost of materials for Kit Building is covered by our sponsor, Diablo Subaru. (We aren’t charging for materials)"
   },
   {
     "id": "electronic-kits-sunday",
@@ -77,7 +77,7 @@
     "startTime": "09:00",
     "endTime": "11:00",
     "roomId": "kit-building",
-    "description": "Electronic Kit Assembly is a hands-on activity open to participants of all ages who want to learn how to solder and build simple electronic projects. Choose from a variety of affordable kits and receive personalized, one-on-one guidance from an experienced volunteer. You will learn how to identify basic electronic components, place and assemble them correctly, and use soldering tools safely and effectively. Volunteers will help you throughout the entire process, from opening the kit to testing the finished project. Once your creation is assembled and working properly, it is yours to take home, enjoy, demonstrate, and continue learning from afterward."
+    "description": "Electronic Kit Assembly is a hands-on activity open to participants of all ages who want to learn how to solder and build simple electronic projects. Choose from a variety of kits and receive personalized, one-on-one guidance from an experienced volunteer. You will learn how to identify basic electronic components, place and assemble them correctly, and use soldering tools safely and effectively. Volunteers will help you throughout the entire process, from opening the kit to testing the finished project. Once your creation is assembled and working properly, it is yours to take home, enjoy, demonstrate, and continue learning from afterward. The cost of materials for Kit Building is covered by our sponsor, Diablo Subaru. (We aren’t charging for materials)"
   },
   {
     "id": "prize-draw-2100",
