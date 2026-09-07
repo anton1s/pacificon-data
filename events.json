@@ -51,7 +51,7 @@
   },
   {
     "id": "scouting-activities-a",
-    "title": "Scouting Activities, Merit Badge A",
+    "title": "Scouting, Radio Merit Badge",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "08:00",
@@ -61,7 +61,7 @@
   },
   {
     "id": "scouting-activities-b",
-    "title": "Scouting Activities, Merit Badge B",
+    "title": "Scouting, Electronics Merit Badge",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "08:00",
