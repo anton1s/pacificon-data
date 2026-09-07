@@ -1,7 +1,8 @@
 {
-  "_howToUse": "Paste the winning numbers into tickets, separated by commas or spaces. Leave it empty until the draw has happened. Nothing else needs changing.",
+  "_howToUse": "Paste the winning numbers into tickets, separated by commas or spaces. Leave empty until the draw has happened. day and time are already set from the schedule \u2014 change them only if a draw moves.",
   "label": "Draw 4",
-  "time": "",
+  "day": "Saturday",
+  "time": "16:00",
   "tickets": "",
   "note": ""
 }
