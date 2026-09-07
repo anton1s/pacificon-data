@@ -140,12 +140,12 @@
     "description": "We have many prizes to be awarded, including donations from vendors here at Pacificon and from others not in attendance. There are 6 drawings during Pacificon; check the event schedule for the times. Prize drawing tickets can be purchased at Registration (not Will Call) and at the Prize Booth.   If you’re a winner, bring your winning ticket stub to the Prize Booth to claim your prize. Winning numbers will be posted, so stop by often to see if your number is there.\n\nWith the exception of the Grand Prizes, all prizes must be claimed by 12:15 PM on Sunday. All prizes not claimed by then will be taken to the ARRL Forum on Sunday afternoon, where a final drawing will be held to award them to persons in attendance.\n\nIf the Grand Prize winner has not claimed his/her prize by the end of the conference, we will attempt to contact them to arrange for pickup. If that fails, we will ship the prize to the address we have in the person’s registration record."
   },
   {
-    "id": "t-hunt-1100",
+    "id": "t-hunt-0800",
     "title": "T-Hunting",
     "day": "saturday",
     "date": "2026-10-17",
-    "startTime": "11:00",
-    "endTime": "13:00",
+    "startTime": "08:00",
+    "endTime": "17:00",
     "roomId": "area-t-hunt",
     "description": "Come to the TRANMITTER HUNT canopy near the front hotel entrance and have some fun. If you are interested and don’t have any equipment or have never tried a transmitter hunt come on by, we will have equipment to lend out.  We will educate you and get you hunting.  The frequencies will be: 146.565 MHz for the advanced transmitter and 144.250 MHz for the beginner transmitter."
   },
@@ -250,12 +250,12 @@
     "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
   },
   {
-    "id": "t-hunt-1101",
+    "id": "t-hunt-0801",
     "title": "T-Hunting",
     "day": "sunday",
     "date": "2026-10-18",
-    "startTime": "11:00",
-    "endTime": "13:00",
+    "startTime": "08:00",
+    "endTime": "11:00",
     "roomId": "area-t-hunt",
     "description": "Come to the TRANMITTER HUNT canopy near the front hotel entrance and have some fun. If you are interested and don’t have any equipment or have never tried a transmitter hunt come on by, we will have equipment to lend out. We will educate you and get you hunting. The frequencies will be: 146.565 MHz for the advanced transmitter and 144.250 MHz for the beginner transmitter. Prize hunt at 12:00pm"
   }
