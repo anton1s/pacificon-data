@@ -50,13 +50,23 @@
     "description": "There are no excuses for not getting your first license at Pacificon℠. Rich Harrington KN6FW and Paul Shinn K6FRC will be giving the One-Day Amateur Radio License Class at Pacificon℠. Get your Technician License IN ONE DAY!"
   },
   {
-    "id": "scouting-activities",
-    "title": "Scouting Activities, Merit Badges",
+    "id": "scouting-activities-a",
+    "title": "Scouting Activities, Merit Badge A",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "08:00",
     "endTime": "16:00",
     "roomId": "salon-f",
+    "description": "Scouts are invited to experience Jamboree-on-the-Air by talking and listening on amateur radio while working toward the Radio and Electronics Merit Badges. Amateur Radio license exams for new licenses, upgrades, and retakes will run Saturday from 8:00 a.m. to noon. Electronic kit assembly is available from 9:00 a.m. to 3:00 p.m.; allow one to two hours to complete the activity. Scouts can also explore the latest radio technology in Pacificon’s Vendor Exhibit Hall. Limited Jamboree-on-the-Air patches may be available. Activities continue Sunday, and Scouts wearing full uniform receive free admission throughout the entire weekend at the Pacificon conference. The cost of materials for Kit Building is covered by our sponsor, Diablo Subaru. (We aren’t charging for materials)"
+  },
+  {
+    "id": "scouting-activities-b",
+    "title": "Scouting Activities, Merit Badge B",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "roomId": "board-room",
     "description": "Scouts are invited to experience Jamboree-on-the-Air by talking and listening on amateur radio while working toward the Radio and Electronics Merit Badges. Amateur Radio license exams for new licenses, upgrades, and retakes will run Saturday from 8:00 a.m. to noon. Electronic kit assembly is available from 9:00 a.m. to 3:00 p.m.; allow one to two hours to complete the activity. Scouts can also explore the latest radio technology in Pacificon’s Vendor Exhibit Hall. Limited Jamboree-on-the-Air patches may be available. Activities continue Sunday, and Scouts wearing full uniform receive free admission throughout the entire weekend at the Pacificon conference. The cost of materials for Kit Building is covered by our sponsor, Diablo Subaru. (We aren’t charging for materials)"
   },
   {
