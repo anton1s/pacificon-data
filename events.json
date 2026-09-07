@@ -258,15 +258,5 @@
     "endTime": "13:00",
     "roomId": "area-t-hunt",
     "description": "Come to the TRANMITTER HUNT canopy near the front hotel entrance and have some fun. If you are interested and don’t have any equipment or have never tried a transmitter hunt come on by, we will have equipment to lend out. We will educate you and get you hunting. The frequencies will be: 146.565 MHz for the advanced transmitter and 144.250 MHz for the beginner transmitter. Prize hunt at 12:00pm"
-  },
-  {
-    "id": "arrl-forum-1300",
-    "title": "ARRL Pacific Division Forum",
-    "day": "sunday",
-    "date": "2026-10-18",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "roomId": "salon-e",
-    "description": "At the ARRL Forum, you’ll have a chance to meet the ARRL leadership, learn about the latest news, events and activities at the ARRL, and ask questions directly to the leadership. At the conclusion of the Forum there will be the final prize drawing of the event, so be sure to be there to hear your winning ticket drawn."
   }
 ]
