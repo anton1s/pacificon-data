@@ -250,6 +250,16 @@
     "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
   },
   {
+    "id": "prize-hunt-1200",
+    "title": "Prize Hunt",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "roomId": "area-t-hunt",
+    "description": "Come to the TRANMITTER HUNT canopy near the front hotel entrance for our final hunt of the day, the Prize Hunt! The frequencies will be: 146.565 MHz for the advanced transmitter and 144.250 MHz for the beginner transmitter."
+  },
+  {
     "id": "t-hunt-0801",
     "title": "T-Hunting",
     "day": "sunday",
