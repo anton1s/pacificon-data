@@ -1,7 +1,7 @@
 {
   "_howToUse": "Paste the winning numbers into tickets, separated by commas or spaces. Leave it empty until the draw has happened. Nothing else needs changing.",
   "label": "Draw 1",
-  "time": "Saturday 11:00",
-  "tickets": "1024, 1188,1203 , 1247, 1310, 1355, 1402, 1466, 1519, 1573, 1024, 1601, 1688, 1704, 1755, 1812, 1877, 1903, 1966, 2011, 2078, 2140, 2199, 2233, 2301",
+  "time": "",
+  "tickets": "",
   "note": ""
 }
