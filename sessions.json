@@ -74,7 +74,7 @@
     "startTime": "09:00",
     "endTime": "09:50",
     "roomId": "salon-e",
-    "description": "PSKReporter, introduced by Philip Gladstone (N1DQ), answers the core ham radio question: \"Where am I being heard?\". Since its 2008 inception, it has evolved into a central hub aggregating reception reports from thousands of worldwide ham operators using digital mode software like WSJT-X. The system processes UDP packets to provide real-time propagation data via map visualization. This talk will describe the path from the beginnings of Pskreporter in N1DQ's basement, through the huge growth in digital mode traffic over the last 18 years to the present. It will conclude with a roadmap for the future and potential avenues to securing the future of the Pskreporter system."
+    "description": "PSKReporter, introduced by Philip Gladstone (N1DQ), answers the core ham radio question: \"Where am I being heard?\". Since its 2008 inception, it has evolved into a central hub aggregating reception reports from thousands of worldwide ham operators using digital mode software like WSJT-X. The system processes UDP packets to provide real-time propagation data via map visualization. This talk will describe the path from the beginnings of PSKreporter in N1DQ's basement, through the huge growth in digital mode traffic over the last 18 years to the present. It will conclude with a roadmap for the future and potential avenues to securing the future of the PSKreporter system."
   },
   {
     "id": "kh6fv-saturday-0900",
@@ -85,7 +85,7 @@
     "startTime": "09:00",
     "endTime": "09:50",
     "roomId": "salon-g",
-    "description": "Information on the January 2026 release of Winlink Post Office Mode how it works and the added features it provides."
+    "description": "Information on the January 2026 release of Winlink Post Office Mode; how it works and the added features it provides."
   },
   {
     "id": "n9ys-saturday-0900",
@@ -316,7 +316,7 @@
     "startTime": "15:00",
     "endTime": "15:50",
     "roomId": "pleasanton",
-    "description": "A look at the world of 3D printing and the many useful things we can make for Amateur Radio. Ill cover the different types of 3D printers and the different materials we can work with to make parts, antennas, cases, and other useful items."
+    "description": "A look at the world of 3D printing and the many useful things we can make for Amateur Radio. I'll cover the different types of 3D printers and the different materials we can work with to make parts, antennas, cases, and other useful items."
   },
   {
     "id": "kw5gp-saturday-1600",
