@@ -33,8 +33,8 @@
     "id": "meshcore",
     "title": "MeshCore",
     "rows": [
-      { "label": "Radio preset", "value": "USA/Canada", "note": "Use the built-in USA/Canada preset in the MeshCore app" },
-      { "label": "Channel", "value": "#pacificon", "note": "Join this channel to chat with other attendees" }
+      { "label": "Radio preset", "value": "USA/Canada"},
+      { "label": "Channel", "value": "#pacificon"}
     ]
   }
 ]
