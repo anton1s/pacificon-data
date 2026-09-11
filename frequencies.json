@@ -28,5 +28,13 @@
       { "label": "Key", "value": "FFKJ9v4l1B889fugIibYbAMWozKX6KxpnIeEUVbz1Vc=" },
       { "label": "Device role", "value": "CLIENT_MUTE" }
     ]
+  },
+  {
+    "id": "meshcore",
+    "title": "MeshCore",
+    "rows": [
+      { "label": "Radio preset", "value": "USA/Canada", "note": "Use the built-in USA/Canada preset in the MeshCore app" },
+      { "label": "Channel", "value": "#pacificon", "note": "Join this channel to chat with other attendees" }
+    ]
   }
 ]
