@@ -12,12 +12,6 @@
     "bio": "Michelle Paquette moved to the Portland, Oregon area in 2020, after living in the San Francisco Bay Area most of her life. She has worked in fields from nuclear power plant operations to software engineering, as an engineer and trainer. A physics nerd, Michelle holds a number of patents and an Amateur Extra license, and enjoys restoring old vacuum tube radio gear and playing with wires."
   },
   {
-    "id": "aa6pp",
-    "name": "Dr Antonis Papatsaras",
-    "callsign": "AA6PP",
-    "bio": "Antonis is a lifelong technology enthusiast, software engineer, and amateur radio operator. He currently serves as Chief Technology Officer of Bluehost, while dedicating much of his spare time to amateur radio leadership and service. Antonis is the President of the San Francisco Radio Club, ARRL San Francisco Section Manager, and Chairman of Pacificon '26. He especially enjoys tinkering with electronics, building radios, organizing radio community events, mentoring fellow amateurs, and activating parks (POTA)"
-  },
-  {
     "id": "af7yq",
     "name": "Eric Anderson & Suzanne Muoio",
     "callsign": "AF7YQ",
@@ -280,6 +274,12 @@
     "name": "Curt Kolovson",
     "callsign": "W6RQ",
     "bio": "Curt Kolovson is a Volunteer Coordinator for San Francisco Bay Area Skywarn, which is a dedicated group of trained weather spotters. Our Skywarn group works closely with the National Weather Service Forecast Office in Monterey, CA. Curt is a retired software engineer, and has been a ham since 2002."
+  },
+  {
+    "id": "wa6hhq",
+    "name": "Eric Swartz",
+    "callsign": "WA6HHQ",
+    "bio": "Eric Swartz, WA6HHQ, is Elecraft's CEO and co-designer of Elecraft's K4, K3S, K2 and other Elecraft products. He co-founded Elecraft in 1998 with Wayne, N6KR. Licensed for over 55 years, his early interest in Amateur Radio led him to a career in electronic design and management. He received his B.S. in Engineering and Applied Science (Electronics) from Yale University in 1979. Prior to Elecraft, Eric was co-founder and President of Verisys, a manufacturer of high-performance protocol analyzers for the computer and mass storage market. Eric and Wayne also received the ARRL's Technical Excellence Award for their Elecraft designs."
   },
   {
     "id": "wb6lvc",

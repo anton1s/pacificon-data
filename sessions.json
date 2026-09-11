@@ -154,15 +154,15 @@
     "description": "An insider look into how Watch Duty operates."
   },
   {
-    "id": "kj6keu-saturday-1100",
-    "speakerId": "kj6keu",
-    "title": "Multi-State Auxiliary Communication Exercise panel discussion",
+    "id": "wa6hhq-saturday-1100",
+    "speakerId": "wa6hhq",
+    "title": "Latest News from Elecraft, with Q&A",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "11:00",
     "endTime": "11:50",
     "roomId": "salon-e",
-    "description": "The BEACON Exercise is a nationwide emergency communications exercise designed to test and strengthen community-based disaster response networks. Conducted annually, BEACON challenges volunteers, public safety partners, and community organizations to simulate real-world communication failures during large-scale disasters. Participants practice situational awareness reporting, message handling, and coordination across jurisdictions using resilient, independent communication methods. This panel will discuss how BEACON was developed, highlight lessons learned from 2026 and past exercises, and explore how communities can apply those insights locally. Audience will also have the opportunity to share their experiences, ask questions, and discuss ideas to improve the exercise for 2027."
+    "description": "Eric will quickly cover Elecraft’s latest products and new feature upgrades, followed by an open Q&A session on all of our products. We look forward to your questions and suggestions!"
   },
   {
     "id": "kd6w-saturday-1100",
@@ -330,6 +330,17 @@
     "description": "Join ARRL author Glen Popiel, KW5GP, as he discusses the Arduino and other microcontrollers. Learn just how much fun you can have creating your own microcontroller-based projects for your ham shack, family, and friends."
   },
   {
+    "id": "kj6keu-saturday-1600",
+    "speakerId": "kj6keu",
+    "title": "Multi-State Auxiliary Communication Exercise panel discussion",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "roomId": "salon-e",
+    "description": "The BEACON Exercise is a nationwide emergency communications exercise designed to test and strengthen community-based disaster response networks. Conducted annually, BEACON challenges volunteers, public safety partners, and community organizations to simulate real-world communication failures during large-scale disasters. Participants practice situational awareness reporting, message handling, and coordination across jurisdictions using resilient, independent communication methods. This panel will discuss how BEACON was developed, highlight lessons learned from 2026 and past exercises, and explore how communities can apply those insights locally. Audience will also have the opportunity to share their experiences, ask questions, and discuss ideas to improve the exercise for 2027."
+  },
+  {
     "id": "k6kjn-saturday-1600",
     "speakerId": "k6kjn",
     "title": "Digital Library of Amateur Radio and Communications update",
@@ -337,19 +348,8 @@
     "date": "2026-10-17",
     "startTime": "16:00",
     "endTime": "16:50",
-    "roomId": "salon-e",
-    "description": "DLARC is Internet Archive's free online ham radio library, offering free access to callbooks, ham radio newsletters and magazines from around the world, conference archives, historical research, and more. The curator will show some of the material that has been added to the library in the past year, and what's next."
-  },
-  {
-    "id": "w2gmd-saturday-1600",
-    "speakerId": "w2gmd",
-    "title": "Don't Look Up: Drone Detection and the RF Spectrum",
-    "day": "saturday",
-    "date": "2026-10-17",
-    "startTime": "16:00",
-    "endTime": "16:50",
     "roomId": "salon-g",
-    "description": "The sky over every city is full of drones, and all of them are talking. This presentation is a field guide to that spectrum. Remote ID, the FAA's digital license plate, is an unencrypted broadcast on 2.4 and 5.8 GHz and Bluetooth that any nearby receiver can read, and that anyone can forge. We walk the signal end to end: how the open standard and DJI's proprietary DroneID look on the air, how to decode them with a fifty-dollar receiver or an SDR, why it is trivially spoofable, and how direction finding puts a fix on the operator."
+    "description": "DLARC is Internet Archive's free online ham radio library, offering free access to callbooks, ham radio newsletters and magazines from around the world, conference archives, historical research, and more. The curator will show some of the material that has been added to the library in the past year, and what's next."
   },
   {
     "id": "kj6dzb-saturday-1600",
@@ -396,15 +396,15 @@
     "description": "Pirates, spies, military coupes, opera singers, preachers, tech nerds, propaganda ministers, and artisans are all hanging out on the International Shortwave bands. Learn about Radio Caroline, the Japanese Slot Machine, the Numbers Stations, the Chinese Robot, the Russian Woodpecker, Radio Shoestring and more.\n\nWe will explore what can be heard on these bands today, touch on memorable stations of days gone by, learn how to set up your listening post, how to QSL, find clubs/resources, and much more.\n\nBONUS: At the end of the session two lucky attendees will win a $200 ETON Elite Shortwave/AM/FM/VHF radio."
   },
   {
-    "id": "aa6pp-sunday-1100",
-    "speakerId": "aa6pp",
-    "title": "Sixteen Cities, One Signal: Building a Global Ham Radio Event",
+    "id": "w2gmd-sunday-1100",
+    "speakerId": "w2gmd",
+    "title": "Don't Look Up: Drone Detection and the RF Spectrum",
     "day": "sunday",
     "date": "2026-10-18",
     "startTime": "11:00",
     "endTime": "11:50",
     "roomId": "salon-2",
-    "description": "How do you turn an idea into a coordinated worldwide amateur radio event? This presentation shares the story behind the World Soccer Tournament Special Event Station, which brought together operators across sixteen North American host cities and engaged radio amateurs around the globe. Drawing on our experience building wc2026ses.org, recruiting and coordinating volunteers, scheduling thousands of operating hours, and managing logs, awards and communications, I will present a practical playbook for clubs planning special events. Attendees will learn how to design the organization, technology and operating model—and what we would do differently."
+    "description": "The sky over every city is full of drones, and all of them are talking. This presentation is a field guide to that spectrum. Remote ID, the FAA's digital license plate, is an unencrypted broadcast on 2.4 and 5.8 GHz and Bluetooth that any nearby receiver can read, and that anyone can forge. We walk the signal end to end: how the open standard and DJI's proprietary DroneID look on the air, how to decode them with a fifty-dollar receiver or an SDR, why it is trivially spoofable, and how direction finding puts a fix on the operator."
   },
   {
     "id": "k6aq-sunday-1100",

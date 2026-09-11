@@ -15,7 +15,14 @@ within about 5 minutes (GitHub's CDN cache) — no app-store release needed.
 - Speaker `photoUri` may be a full URL; photos in `photos/` are served at
   `https://raw.githubusercontent.com/anton1s/pacificon-data/main/photos/<file>`.
 - Speaker photos: drop `photos/<speaker id>.jpg` (or `.png`) here and the app
-  picks it up automatically for speakers without a bundled photo.
+  picks it up automatically for speakers without a bundled photo. The speaker
+  id is the lowercased callsign (`wa6hhq.png`), or the name slug for an
+  unlicensed presenter — a file named anything else is simply never matched.
+- **Size speaker photos 56 x 56, square.** That covers every display context
+  the app puts them in without scaling artefacts. The existing files are
+  inconsistent — three are 85 px wide and portrait, others range up to 411 px —
+  so treat 56 x 56 as the target for anything added from here on, and as what
+  to normalise the older ones to when someone has time.
 - `rooms.json`: room list plus map hotspots. `mapBounds` is `{x, y, width, height}`
   as fractions (0–1) of the floor-plan width/height (or an array of them);
   keep room `id`s stable — sessions reference them.
