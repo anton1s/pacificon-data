@@ -278,5 +278,35 @@
     "endTime": "11:00",
     "roomId": "area-t-hunt",
     "description": "Come to the TRANMITTER HUNT canopy near the front hotel entrance and have some fun. If you are interested and don’t have any equipment or have never tried a transmitter hunt come on by, we will have equipment to lend out. We will educate you and get you hunting. The frequencies will be: 146.565 MHz for the advanced transmitter and 144.250 MHz for the beginner transmitter. Prize hunt at 12:00pm"
+  },
+  {
+    "id": "exhibit-friday-1500",
+    "title": "Vendor Exhibit Hours",
+    "day": "friday",
+    "date": "2026-10-16",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "roomId": "exhibits",
+    "description": "Be sure to visit the Pacificon Exhibit Hall during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
+  },
+  {
+    "id": "exhibit-saturday-0900",
+    "title": "Vendor Exhibit Hours",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "roomId": "exhibits",
+    "description": "Be sure to visit the Pacificon Exhibit Hall during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
+  },
+  {
+    "id": "exhibit-sunday-0900",
+    "title": "Vendor Exhibit Hours",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "09:00",
+    "endTime": "13:00",
+    "roomId": "exhibits",
+    "description": "Be sure to visit the Pacificon Exhibit Hall during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
   }
 ]
