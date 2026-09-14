@@ -68,11 +68,8 @@
   },
   {
     "id": "prize-booth",
-    "name": "Prizes",
-    "mapBounds": [
-      { "x": 0.151, "y": 0.932, "width": 0.087, "height": 0.040 },
-      { "x": 0.641, "y": 0.0914, "width": 0.130, "height": 0.253 }
-    ]
+    "name": "Prize Booth",
+    "mapBounds": { "x": 0.151, "y": 0.932, "width": 0.087, "height": 0.040 }
   },
   {
     "id": "registration",
