@@ -5,8 +5,8 @@
   "date": "2026-10-16",
   "time": "21:00",
   "place": "Salon E",
-  "tickets": "",
-  "grandPrize": "",
-  "winner": "",
-  "note": "100234, 100987, 101456, 102003, 102778"
+  "tickets": "100234, 100987, 100240, 101456, 102003, 102778",
+  "grandPrize": "Elecraft K4D",
+  "winner": "Antonis AA6PP",
+  "note": ""
 }
