@@ -1,0 +1,22 @@
+{
+  "name": "San Ramon Marriott",
+  "address": "2600 Bishop Drive",
+  "addressLine2": "",
+  "city": "San Ramon",
+  "state": "CA",
+  "zip": "94583",
+  "latitude": 37.76285,
+  "longitude": -121.96544,
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Ramon+Marriott+2600+Bishop+Drive+San+Ramon+CA+94583",
+  "directionsText": "From I-680, exit at Bollinger Canyon Road, turn east, then left at Sunset Drive/Chevron Drive, and left again at Bishop Drive.",
+  "notes": "Parking available on site. Accessibility access at main entrance.",
+  "overflowParking": {
+    "name": "Overflow parking",
+    "address": "2633 Camino Ramon",
+    "city": "San Ramon",
+    "state": "CA",
+    "zip": "94583",
+    "hours": "Open from Friday 6:00 PM until Sunday evening.",
+    "directions": "From the Marriott main entrance, turn right on Bishop Drive. Continue straight through the traffic signal at Sunset. Turn left on Camino Pablo. Turn right at the second driveway and park in front of Enterprise Holdings."
+  }
+}
