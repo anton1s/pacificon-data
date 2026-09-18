@@ -1,5 +1,6 @@
 {
-  "_howToUse": "The conference's headline prize, shown at the top of the Prize Draws page. Fill in grandPrize before the conference; leave winner empty until it has been drawn, and the winner line stays hidden until then. The per-draw prizes live in draw-1.json .. draw-6.json.",
+  "_howToUse": "The conference's headline prize, shown at the top of the Prize Draws page. Fill in grandPrize before the conference; leave winner empty until it has been drawn. when is free text for when it happens. The per-draw prizes live in draw-1.json .. draw-6.json.",
   "grandPrize": "",
-  "winner": ""
+  "winner": "",
+  "when": "Sunday, after the ARRL Forum"
 }
