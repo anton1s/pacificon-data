@@ -1,0 +1,102 @@
+PACIFICON APP — RELEASE NOTES
+=============================
+
+A running log of what shipped, kept here so it travels with the data the app
+reads. Newest first. Each entry holds the text submitted to the stores and the
+longer version given to testers.
+
+
+-------------------------------------------------------------------------------
+1.0.5  —  18 September 2026
+        iOS build 202609181525  ·  Android versionCode 29829082
+-------------------------------------------------------------------------------
+
+APP STORE — "What's New in This Version"
+
+  • My Raffle Tickets: enter your ticket numbers, or a whole range, and the app
+    checks them against each prize draw for you
+  • Grand prizes and winners now shown for every draw, with the Main Grand Prize
+    at the top
+  • New Hours page: registration, cash sales and vendor exhibit hours
+  • Star your favourite vendors and filter by them
+  • Step-by-step driving directions to the overflow car park
+  • Vendor exhibit hours now head each day on the Schedule
+  • Fixes: tapping near the map icon no longer favourites a session, winning
+    numbers are listed in order, and layouts hold at large text sizes
+
+
+GOOGLE PLAY — "What's new" (500 character limit)
+
+  Raffle tickets: enter your numbers, or a whole range, and the app checks them
+  against every draw.
+
+  Also new: grand prizes and winners on each draw, an Hours page (registration,
+  cash sales, exhibit hall), favourite vendors, and directions to the overflow
+  car park.
+
+  Fixed: tapping near the map icon no longer favourites a talk, winning numbers
+  are listed in order, and text no longer clips with large or bold system fonts.
+
+
+FOR TESTERS
+
+  New
+  • My Raffle Tickets (Information Hub). Enter the numbers on your stubs — one
+    at a time, or a range like 100200-100299 for a book of tickets. The app
+    compares them against every draw. Numbers you hold appear green on the Prize
+    Draws page marked YOURS, and a notification arrives when one wins. Your
+    numbers stay on the phone; nothing is uploaded.
+  • Grand prizes. Each draw shows its prize, and the winner's name and callsign
+    once drawn. The conference's Main Grand Prize has its own card at the top,
+    with when it is drawn.
+  • Hours page: registration & will call, cash sales, vendor exhibit hours.
+  • Favourite vendors: star them like sessions, then filter by the star.
+  • Overflow car park: address, hours, a Maps button, and now the turns written
+    out for anyone not using a map.
+  • Vendor Exhibit Hours head each day on the Schedule, as red cards.
+
+  Fixed
+  • Tapping below a card's star — near the map icon, especially at large text
+    sizes — no longer favourites the session by mistake.
+  • Winning numbers are shown in ascending order, however they were entered.
+  • Clearing favourites in Settings now also clears the star filter.
+  • Settings counts favourite vendors as well as sessions; with only vendors
+    starred, Reset was greyed out.
+  • "All" stays selected beside the star on the Schedule filters.
+  • Android: text no longer clips with large or bold system fonts; the keyboard
+    no longer covers the feedback box; the map leaves room for the list in
+    landscape.
+
+  Also
+  • "Nonprofits" spelled consistently, and Pacificon carries its service mark
+    throughout the app.
+  • Content: banquet tickets must be collected from Registration by 4pm
+    Saturday; new speaker photo (WA6HHQ) and biography (KJ6OUI); Prize Booth
+    and organiser details.
+
+  Please check
+  1. My Raffle Tickets — add a single number and a range, check the total, and
+     that "Remove all" asks first.
+  2. Prize Draws — Draw 1 has published numbers. Add one of them as your ticket
+     and it should turn green, marked YOURS.
+  3. Star a card, then tap just below the star and beside the map icon. Neither
+     should favourite anything. Worth trying with a large text size set in your
+     phone's accessibility settings.
+  4. Star a vendor but no sessions, then check Settings reads "1 vendor
+     favorited" with Reset enabled.
+
+  Note for editors
+  From this version the app also fetches venue.json, so the whole Directions
+  page — venue address, driving directions, parking notes, overflow car park —
+  can be changed from this repository without a new release.
+
+
+-------------------------------------------------------------------------------
+1.0.4  —  released on the App Store 17 September 2026
+        iOS build 202609081742
+-------------------------------------------------------------------------------
+
+  First public release. Schedule with day filters and favourites, venue floor
+  plan with room search, speaker biographies, vendors and non-profits, prize
+  draw numbers, frequencies, organisers, sponsors, directions, prize draw
+  reminders, and a feedback form.
