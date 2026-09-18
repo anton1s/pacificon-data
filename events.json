@@ -37,7 +37,7 @@
     "startTime": "08:00",
     "endTime": "13:00",
     "roomId": "area-trivalley1",
-    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
+    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. No fees will be collected as test fees are paid by a generous donor. However there is a limit on the number of retries that will be covered by the donation. Applicants under 18 can get a $35 refund of the FCC fees from the ARRL."
   },
   {
     "id": "tech-class",
@@ -207,7 +207,7 @@
     "startTime": "16:00",
     "endTime": "18:00",
     "roomId": "area-trivalley1",
-    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
+    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. No fees will be collected as test fees are paid by a generous donor. However there is a limit on the number of retries that will be covered by the donation. Applicants under 18 can get a $35 refund of the FCC fees from the ARRL."
   },
   {
     "id": "banquet-dinner-1900",
@@ -257,7 +257,7 @@
     "startTime": "09:00",
     "endTime": "12:00",
     "roomId": "area-trivalley2",
-    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. A fee of $15 dollars is charged for the examination, $5 if under 18. You may pay with cash, check or square. Applicants under 18 pay $5 for the exam and can get a $35 refund of the FCC fees from the ARRL."
+    "description": "At every Pacificon℠ we offer License Testing for those who want to get their first amateur radio license or those who want to upgrade to a higher class license. No fees will be collected as test fees are paid by a generous donor. However there is a limit on the number of retries that will be covered by the donation. Applicants under 18 can get a $35 refund of the FCC fees from the ARRL."
   },
   {
     "id": "prize-hunt-1200",
@@ -287,7 +287,7 @@
     "startTime": "15:00",
     "endTime": "18:00",
     "roomId": "exhibits",
-    "description": "Be sure to visit the Pacificon Exhibit Hall during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
+    "description": "Be sure to visit the Pacificon Exhibit Halls during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
   },
   {
     "id": "exhibit-saturday-0900",
@@ -297,7 +297,7 @@
     "startTime": "09:00",
     "endTime": "17:00",
     "roomId": "exhibits",
-    "description": "Be sure to visit the Pacificon Exhibit Hall during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
+    "description": "Be sure to visit the Pacificon Exhibit Halls during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
   },
   {
     "id": "exhibit-sunday-0900",
@@ -307,6 +307,6 @@
     "startTime": "09:00",
     "endTime": "13:00",
     "roomId": "exhibits",
-    "description": "Be sure to visit the Pacificon Exhibit Hall during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
+    "description": "Be sure to visit the Pacificon Exhibit Halls during the scheduled hours to meet our vendors, explore the latest amateur radio equipment and technology, and discover some exciting goodies!"
   }
 ]
