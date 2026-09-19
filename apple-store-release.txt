@@ -1,0 +1,156 @@
+RELEASING AN UPDATE TO THE APP STORE
+====================================
+
+Written 18 September 2026, releasing 1.0.5 over the live 1.0.4. The steps are
+the same for later versions; only the numbers change.
+
+Where things stand before you start:
+  • Live on the App Store:  1.0.4  (build 202609081742)
+  • Ready to submit:        1.0.5  (build 202609181525, uploaded and VALID)
+
+Nothing here needs a Mac. It is all App Store Connect in a browser.
+
+
+-------------------------------------------------------------------------------
+1. CREATE THE NEW VERSION
+-------------------------------------------------------------------------------
+
+App Store Connect > My Apps > Pacificon Conference.
+
+In the left sidebar, under the App Store tab, click the blue "+" beside
+"iOS App" and choose "iOS App 1.0.5". Enter 1.0.5 as the version number —
+it must match the version in the build you are submitting.
+
+A new page appears, titled "1.0.5 Prepare for Submission".
+
+
+-------------------------------------------------------------------------------
+2. WHAT'S NEW IN THIS VERSION
+-------------------------------------------------------------------------------
+
+Paste the App Store text from release-notes.txt in this repository, under the
+version you are shipping. This is the only field users see on the update.
+
+
+-------------------------------------------------------------------------------
+3. PICK THE BUILD
+-------------------------------------------------------------------------------
+
+Scroll to "Build" and click "Add Build" (or the "+"). Choose the build whose
+number matches the one above — 202609181525 for 1.0.5.
+
+If the build is missing, it is still processing. Wait a few minutes and reload.
+If it is there but greyed out, it has expired; a new one must be uploaded.
+
+
+-------------------------------------------------------------------------------
+4. WHAT YOU DO NOT NEED TO CHANGE
+-------------------------------------------------------------------------------
+
+These carry over from the previous version and only need touching if something
+has actually changed:
+
+  • Screenshots — only if the screens shown have changed noticeably
+  • Description, keywords, support URL, marketing URL
+  • App Privacy answers — unchanged: the feedback form still sends only a
+    rating, an optional comment, and the app and OS versions
+  • Age rating, category, price (free)
+  • Export compliance — already declared in the build itself, so the
+    "Is your app designed to use cryptography" question does not reappear
+
+Editing metadata you did not have to touch is the usual way an update gets
+delayed, so leave it alone.
+
+
+-------------------------------------------------------------------------------
+5. APP REVIEW INFORMATION
+-------------------------------------------------------------------------------
+
+  • Sign-in required: leave UNCHECKED. There is no login, and filling in demo
+    account details confuses reviewers.
+  • Contact: your name, phone and email.
+  • Notes: paste the reviewer notes for this version. They matter here, because
+    the raffle feature invites a guideline 5.3 question about contests. The
+    short version: the draw happens in person, the app sells nothing, takes no
+    payment, has no element of chance, and only displays numbers the organisers
+    publish. Ticket numbers a user enters stay on their phone.
+
+
+-------------------------------------------------------------------------------
+6. RELEASE OPTION
+-------------------------------------------------------------------------------
+
+Under "Version Release", choose one:
+
+  • Automatically release this version — goes live as soon as it is approved.
+    What 1.0.4 used.
+  • Manually release this version — you press a button when ready. Sensible if
+    you want to time it with an announcement.
+  • Automatically release after a date — for a scheduled launch.
+
+Before the conference, "Automatically" is the safer choice: an approval that
+lands while you are asleep or travelling still reaches attendees.
+
+
+-------------------------------------------------------------------------------
+7. SUBMIT
+-------------------------------------------------------------------------------
+
+Click "Add for Review", then "Submit to App Review" on the confirmation page.
+
+The status becomes "Waiting for Review". Typical wait is a day or two, though
+September 2026 has seen a week or more — 1.0.4 sat for eight days. Around a
+major iOS release it is slower still.
+
+
+-------------------------------------------------------------------------------
+8. WHILE IT IS IN REVIEW
+-------------------------------------------------------------------------------
+
+  • Do NOT upload a new build for this version or edit its metadata. Either can
+    send it back to the end of the queue.
+  • Watch for messages in the Resolution Center; a reviewer's question left
+    unanswered costs days. The App Store Connect phone app notifies you.
+  • The live 1.0.4 is unaffected throughout, and stays downloadable.
+  • TestFlight builds can still be uploaded and installed by testers without
+    disturbing the review.
+
+
+-------------------------------------------------------------------------------
+9. IF IT IS REJECTED
+-------------------------------------------------------------------------------
+
+Read the message in the Resolution Center, reply there if it is a
+misunderstanding, or fix and upload a new build and submit again. A reply often
+resolves it without a new build.
+
+If time is short — it is a conference app with a fixed date — request an
+expedited review at:
+  https://developer.apple.com/contact/app-store/?topic=expedite
+Give the dates: Pacificon runs 16-18 October 2026. Apple limits how often this
+can be used, so keep it for a genuine emergency.
+
+
+-------------------------------------------------------------------------------
+10. AFTER IT GOES LIVE
+-------------------------------------------------------------------------------
+
+  • The status becomes "Ready for Distribution" and the update reaches phones
+    over the next few hours. Search indexing lags; the direct link works at once:
+    https://apps.apple.com/us/app/pacificon-conference/id6803300487
+  • Add the version to release-notes.txt in this repository if it is not
+    already there.
+  • Remember content can still be corrected without a release: everything in
+    this repository — schedule, speakers, vendors, winning numbers, prizes and
+    now the Directions page — is fetched by the app within about five minutes.
+
+
+-------------------------------------------------------------------------------
+NOTE FOR WHOEVER BUILDS THE NEXT ONE
+-------------------------------------------------------------------------------
+
+iOS builds must be made with Xcode 26.6, not 27. A build against the iOS 27 SDK
+crashes at launch on iOS 27 devices, because Expo SDK 54 does not adopt the
+UIScene lifecycle that Xcode 27 makes mandatory. Check DTSDKName reads
+iphoneos26.x before uploading. Details are in POST-CONFERENCE.md in the app
+repository.
