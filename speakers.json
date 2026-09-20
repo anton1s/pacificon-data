@@ -36,6 +36,12 @@
     "bio": "Justin is what happens when curiosity outpaces expertise. A specialist in trial and error, he documents ambitious projects with enthusiasm, hindsight, and more than a little sarcasm. He highlights not just what works, but what definitely didn't—encouraging others to jump in and learn by doing."
   },
   {
+    "id": "bg5hhp",
+    "name": "Shawn Qian",
+    "callsign": "BG5HHP",
+    "bio": "Shawn Qian (BG5HHP) is a long-time contributor to the open-source MMDVM ecosystem. His recent work focuses on MMDVM-IQ, where he improves performance, expands SDR hardware compatibility, and fixes digital protocol bugs. He also enjoys combining the MMDVM stack with OpenWrt and embedded Linux to build compact, reliable radio infrastructure for local radio clubs.\n\nShawn’s passion for electronics began in primary school, when he got his first soldering iron and multimeter.\n\nProfessionally, Shawn is an independent software consultant with over 20 years in systems engineering. He spent 17 years at Alibaba Group as R&D Director for the E-commerce Business Platform, after starting his career as a Solutions Architect for enterprise security at HP."
+  },
+  {
     "id": "k0neb",
     "name": "Joe Eisenberg",
     "callsign": "K0NEB",
@@ -133,9 +139,9 @@
   },
   {
     "id": "ki6zum",
-    "name": "jim mclaughlin",
+    "name": "Jim McLaughlin",
     "callsign": "KI6ZUM",
-    "bio": ""
+    "bio": "Jim KI6ZUM/VE3ZUM has been developing and releasing open source hardware and software for nearly 45 years. When not experimenting with digital radio, he spends his time planning and running ARISS events to allow students to talk to astronauts on the ISS, mentoring high school students’ high altitude balloon (HAB) flights and working as a VE for his local club."
   },
   {
     "id": "kj4egu",
