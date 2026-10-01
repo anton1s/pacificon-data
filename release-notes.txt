@@ -7,6 +7,52 @@ longer version given to testers.
 
 
 -------------------------------------------------------------------------------
+1.0.6  —  1 October 2026
+        iOS build 202610011751  ·  Android versionCode 29847951
+-------------------------------------------------------------------------------
+
+APP STORE — "What's New in This Version"
+
+  • Add several ticket numbers at once: type them separated by commas, mixing
+    single numbers and ranges
+  • Tapping a win notification now opens My Tickets
+  • A range typed backwards is no longer accepted silently
+  • The page is now called My Tickets
+
+
+GOOGLE PLAY — "What's new" (500 character limit)
+
+  Enter several ticket numbers at once, separated by commas — single numbers and
+  ranges together, for example 100234, 100300-100310, 100999.
+
+  Tapping a "You won" notification now opens My Tickets.
+
+  A range typed backwards, like 100234-987, is refused instead of being read
+  the wrong way round.
+
+
+FOR TESTERS
+
+  • My Tickets takes a list. "100234, 100300-100310, 100999" becomes three
+    entries totalling 13 tickets. Newlines and semicolons split too, so pasting
+    from a message works.
+  • Nothing is added unless every part reads. A bad part names itself — "abc is
+    not a number or a range" — rather than quietly adding the rest, which would
+    leave you believing you hold a ticket you do not.
+  • A reversed range is refused. "100234-987" used to be read as 987-100234 and
+    silently claimed 99,248 tickets.
+  • Tapping a win notification opens My Tickets, whether the app was running or
+    not.
+  • The page is My Tickets, and its first line says "ticket numbers".
+
+  Please check
+  1. Paste or type a mixed list and confirm the total at the bottom.
+  2. Try a list with one bad entry — nothing should be added.
+  3. If a draw has numbers published, add one, close the app fully, and tap the
+     notification when it arrives.
+
+
+-------------------------------------------------------------------------------
 1.0.5  —  18 September 2026
         iOS build 202609181525  ·  Android versionCode 29829082
 -------------------------------------------------------------------------------
