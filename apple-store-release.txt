@@ -70,7 +70,7 @@ delayed, so leave it alone.
     account details confuses reviewers.
   • Contact: your name, phone and email.
   • Notes: paste the reviewer notes for this version. They matter here, because
-    the raffle feature invites a guideline 5.3 question about contests. The
+    the prize draw feature invites a guideline 5.3 question about contests. The
     short version: the draw happens in person, the app sells nothing, takes no
     payment, has no element of chance, and only displays numbers the organisers
     publish. Ticket numbers a user enters stay on their phone.
