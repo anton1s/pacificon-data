@@ -84,7 +84,7 @@
   {
     "id": "cash-sales",
     "name": "Cash Sales",
-    "mapBounds": { "x": 0.5566, "y": 0.9228, "width": 0.020, "height": 0.05 }
+    "mapBounds": { "x": 0.55, "y": 0.9228, "width": 0.040, "height": 0.05 }
   },
   {
     "id": "bishop-hallway",
