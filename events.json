@@ -30,6 +30,56 @@
     "description": "Friday night QRP Open House will be held in the Pleasanton-Danville room starting at 7:00PM, and will feature Paul Harden NA5N giving a talk on CW History, followed by a QRP Auction featuring Doug Hendricks KI6DS as Auctioneer. That will be followed by a show and tell of members building projects."
   },
   {
+    "id": "cash-sales-lunch-fri",
+    "title": "Cash Sales Lunch",
+    "day": "friday",
+    "date": "2026-10-16",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "roomId": "cash-sales",
+    "description": "Join us for delicious lunch. Cash Sales is located near the lobby area and dining tables can be found at Bishop Ranch Patio."
+  },
+  {
+    "id": "cash-sales-breakfast-sat",
+    "title": "Cash Sales Breakfast",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "roomId": "cash-sales",
+    "description": "Join us for delicious breakfast. Cash Sales is located near the lobby area and dining tables can be found at Bishop Ranch Patio."
+  },
+  {
+    "id": "cash-sales-lunch-sat",
+    "title": "Cash Sales Lunch",
+    "day": "saturday",
+    "date": "2026-10-17",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "roomId": "cash-sales",
+    "description": "Join us for delicious lunch. Cash Sales is located near the lobby area and dining tables can be found at Bishop Ranch Patio."
+  },
+  {
+    "id": "cash-sales-breakfast-sun",
+    "title": "Cash Sales Breakfast",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "roomId": "cash-sales",
+    "description": "Join us for delicious breakfast. Cash Sales is located near the lobby area and dining tables can be found at Bishop Ranch Patio."
+  },
+  {
+    "id": "cash-sales-lunch-sun",
+    "title": "Cash Sales Lunch",
+    "day": "sunday",
+    "date": "2026-10-18",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "roomId": "cash-sales",
+    "description": "Join us for delicious lunch. Cash Sales is located near the lobby area and dining tables can be found at Bishop Ranch Patio."
+  },
+  {
     "id": "ham-license-0800",
     "title": "Ham License Testing",
     "day": "saturday",
