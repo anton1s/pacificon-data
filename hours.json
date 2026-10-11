@@ -1,0 +1,30 @@
+{
+  "_howToUse": "The Hours page, top to bottom. Each section is one card: title, an optional note, and rows of label + value. Add, remove or reorder sections freely — the app draws whatever is here. A section with \"source\": \"vendor-exhibit\" fills its own rows from the exhibit events on the schedule, so the hall's hours cannot drift from the cards attendees already see.",
+  "sections": [
+    {
+      "title": "Registration & Will Call",
+      "note": "Pick up your badge and any pre-purchased tickets.",
+      "rows": [
+        { "label": "Friday", "value": "07:00 – 17:00" },
+        { "label": "Saturday", "value": "06:00 – 16:00" },
+        { "label": "Sunday", "value": "07:30 – 11:00" }
+      ]
+    },
+    {
+      "title": "Cash Sales",
+      "note": "Food and drink sold on site.",
+      "rows": [
+        { "label": "Friday · Lunch", "value": "11:30 – 13:30" },
+        { "label": "Saturday · Breakfast", "value": "07:00 – 09:00" },
+        { "label": "Saturday · Lunch", "value": "11:30 – 13:30" },
+        { "label": "Sunday · Breakfast", "value": "07:00 – 09:00" },
+        { "label": "Sunday · Lunch", "value": "11:30 – 13:30" }
+      ]
+    },
+    {
+      "title": "Vendor Exhibit",
+      "note": "The vendor halls and the hallway tables.",
+      "source": "vendor-exhibit"
+    }
+  ]
+}
