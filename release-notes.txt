@@ -7,6 +7,44 @@ longer version given to testers.
 
 
 -------------------------------------------------------------------------------
+1.0.7  —  11 October 2026
+        iOS build 202610112047  ·  Android versionCode 29862527
+-------------------------------------------------------------------------------
+
+APP STORE — "What's New in This Version"
+
+  • Cash sales now appear on the schedule as services, in amber, alongside the
+    hours for registration and the vendor hall
+  • The Hours page can now be updated during the convention
+
+
+GOOGLE PLAY — "What's new" (500 character limit)
+
+  Cash sales sittings now show on the schedule in amber, marked as services
+  rather than activities, so meals are easy to pick out from the talks.
+
+  The Hours page — registration, cash sales and the vendor exhibit — is now
+  updated live, so any change during the convention reaches your phone without
+  an app update.
+
+
+FOR TESTERS
+
+  • The Hours page is now built from published data rather than from the app, so
+    its sections, times and even its categories can change mid-convention. It
+    also now lists the Sunday breakfast sitting, which the old fixed list was
+    missing.
+  • Cash sales cards on the schedule are amber and labelled SERVICE rather than
+    blue and ACTIVITY — somewhere to drop into, not something to attend.
+    Searching "service" or "cash sales" finds them.
+
+  Please check
+  1. Open Information Hub > Hours and confirm five cash sales sittings,
+     including Sunday breakfast.
+  2. Search the schedule for "service" and confirm the five amber cards.
+
+
+-------------------------------------------------------------------------------
 1.0.6  —  1 October 2026
         iOS build 202610011751  ·  Android versionCode 29847951
 -------------------------------------------------------------------------------
