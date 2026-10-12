@@ -176,15 +176,15 @@
     "description": "We have been slowly updating systems in several locations to include digital output so part of this presentation will be an update. We are also looking at expanding services and capabilities onto multiple bands simultaneously and so the challenge is getting enough equipment stood up to support those new bands of service. And we are looking at turning on services way up into the 10 GHz microwave bands and also receiving signals from off planet when the time arrives."
   },
   {
-    "id": "na5n-saturday-1100",
-    "speakerId": "na5n",
-    "title": "QRP Homebrew Practices",
+    "id": "kf6abc-saturday-1100",
+    "speakerId": "kf6abc",
+    "title": "TBD",
     "day": "saturday",
     "date": "2026-10-17",
     "startTime": "11:00",
     "endTime": "11:50",
     "roomId": "pleasanton",
-    "description": "Techniques for building your own QRP homebrew equipment from ugly construction to Manhattan style. Presentation includes step by step procedures for building a simple crystal oscillator during the Saturday evening QRP Open House. All parts and soldering aids provided."
+    "description": ""
   },
   {
     "id": "kt6r-saturday-1300",
