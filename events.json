@@ -7,7 +7,7 @@
     "startTime": "16:00",
     "endTime": "18:00",
     "roomId": "",
-    "description": "Friday Night we will meet in the lobby of the hotel at 4:30pm to arrange transportation to the QRP Banquet held at Panera Bread, Dutch treat."
+    "description": "Friday night we meet in the Marriott lobby at 4:00pm and head over to the QRP no-host dinner at Panera Bread, 3121 Crow Canyon Place, San Ramon, at 4:30pm. Dutch treat."
   },
   {
     "id": "mdarc-club-meeting",
@@ -27,7 +27,7 @@
     "startTime": "19:00",
     "endTime": "22:00",
     "roomId": "pleasanton",
-    "description": "Friday night QRP Open House will be held in the Pleasanton-Danville room starting at 7:00PM, and will feature Paul Harden NA5N giving a talk on CW History, followed by a QRP Auction featuring Doug Hendricks KI6DS as Auctioneer. That will be followed by a show and tell of members building projects."
+    "description": "Friday night QRP Open House will be held in the Pleasanton-Danville room from 7:00PM to 10:00PM, with a Show-and-Tell of members' building projects and a Silent Auction."
   },
   {
     "id": "arrl-youth-rally",
@@ -287,7 +287,7 @@
     "startTime": "19:00",
     "endTime": "22:00",
     "roomId": "pleasanton",
-    "description": "Saturday Night QRP Open House will be held in the Danville room starting at 7:00PM.  CalQRP is going to host 9 demo stations to demonstrate and teach QRP skills.  Working the stations are Yin Shih, Dan Presley, John Sutter, Paul Harden, Joe Eisenberg,  Darrel Swenson, Doug Hendricks, Matt Kaufman and Jeff Logullo."
+    "description": "Saturday night QRP Open House will be held in the Danville room from 7:00PM to 10:00PM. CalQRP will host QRP demo and work stations to demonstrate and teach QRP skills:  Yin Shih - Pacificon 20* Alignment and Calibration Dan Presley - Toroid Winding John Sutter - Rubidium 10MHz Standard, calibrating OCXO 10MHz standards Joe Eisenberg - 3D printing demo Matt Kaufman - Programming Arduinos in QRP projects Jeff Logullo - NanoVNA to tune St Louis 20 vertical"
   },
   {
     "id": "wouff-hong-2345",
